@@ -3,6 +3,13 @@
     <head>
 
         <title>Villa verde urbano</title>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="description" content="iFrame message passing test">
+    	<meta name="viewport" content="width=device-width">
+
+
         <link rel="stylesheet" href="mystyle.css">
         <script type="text/javascript" src="prog_verde_villa.json"></script>
         <script type="text/javascript" src="tabelle_sorted.js"></script>
@@ -17,7 +24,7 @@
 
 <div class=container>
     
-<img src="verde_villa.jpg" usemap="#image-map">
+<img src="verde_villa.jpg" usemap="#image-map" width="100%">
 
 <map name="image-map">
     <area target="_blank" alt="stazione 1" title="stazione 1" href="https://www.inaturalist.org/observations?place_id=any&amp;subview=table&amp;verifiable=any&amp;field:villads=1" coords="547,907,18" shape="circle">
@@ -77,6 +84,21 @@ Scegli la stazione:
 </div>
 
 </div>
+
+    <p class="credits">
+        JavaScript &copy; David J. Bradshaw - <a href="https://github.com/davidjbradshaw/imagemap-resizer">https://github.com/davidjbradshaw/imagemap-resizer</a>.
+    </p>
+    <!--[if lte IE 8]>
+        <script type="text/javascript" src="../js/ie8.polyfil.min.js"></script>
+    <![endif]-->
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script type="text/javascript" src="./imageMapResizer.min.js"></script>
+    <script type="text/javascript">
+
+        $('map').imageMapResize();
+
+    </script>
 
     </body>
 </html>
