@@ -23,8 +23,10 @@ function cambia_stazione(num) {
  	
 	// variabili contatore e valore del menu a tendina
 	var cont = 0;
+	if (this.value !== undefined){
 	var num = parseInt(this.value);
-	console.log(num);
+	}
+	console.log(this.value);
 
 	// cancellazione del <div>
 	document.getElementById("tabella").innerHTML = "";
