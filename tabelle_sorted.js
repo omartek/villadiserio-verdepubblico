@@ -53,8 +53,10 @@ function cambia_stazione(num) {
 			row = document.createElement("tr");
 			cellA = document.createElement("td");
 			cellB = document.createElement("td");
-		
-			testo_link="<a target=_blank href=\""+mydata[key].url+"\">"+mydata[key].scientific_name+"<\a>";
+			
+			//testo_link="<a target=_blank href=\""+mydata[key].url+"\">"+mydata[key].scientific_name+"<\a>";
+
+			testo_link="<a class=\"preview\" target=_blank href=\""+ mydata[key].url +"\">"+ mydata[key].scientific_name +"<img src= " + mydata[key].image_url + " class=\"hide-image\" /><\a>";
 			// inserimento valori nelle celle
 			cellA.innerHTML = testo_link;
 			cellB.innerHTML = mydata[key].species_guess;

@@ -35,3 +35,14 @@
     font-style: italic;
     text-align: center;
 }
+
+.hide-image {
+    width: 100px;
+    display: none;
+    z-index: 100;
+    position: absolute;
+}
+
+.preview:hover .hide-image {
+    display: block
+}
