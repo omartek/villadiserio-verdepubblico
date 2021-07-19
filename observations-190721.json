@@ -2,62 +2,56 @@ var data = `[
  {
    "id": 40356860,
    "url": "https://www.inaturalist.org/observations/40356860",
-   "image_url": "https://static.inaturalist.org/photos/64100892/medium.jpg?1584796237",
    "latitude": 45.7273577755,
    "longitude": 9.7362157703,
    "species_guess": "Carpino Bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 40356866,
    "url": "https://www.inaturalist.org/observations/40356866",
-   "image_url": "https://static.inaturalist.org/photos/64101017/medium.jpg?1584796347",
    "latitude": 45.7292550747,
    "longitude": 9.7358604806,
    "species_guess": "Magnolia stellata",
    "scientific_name": "Magnolia stellata",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 40586773,
    "url": "https://www.inaturalist.org/observations/40586773",
-   "image_url": "https://static.inaturalist.org/photos/64327456/medium.jpg?1584976830",
    "latitude": 45.7252190972,
    "longitude": 9.7287342381,
    "species_guess": "calocedro",
    "scientific_name": "Calocedrus decurrens",
    "common_name": "Cedro della California",
-   "field_villads": null
+   "field_villads": 22
  },
  {
    "id": 40638977,
    "url": "https://www.inaturalist.org/observations/40638977",
-   "image_url": "https://static.inaturalist.org/photos/64417412/medium.jpeg?1585062405",
    "latitude": 45.71866273,
    "longitude": 9.7377487645,
    "species_guess": "Betulla",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 41838286,
    "url": "https://www.inaturalist.org/observations/41838286",
-   "image_url": "https://static.inaturalist.org/photos/66387851/medium.jpeg?1586539968",
    "latitude": 45.71866273,
    "longitude": 9.7377702221,
    "species_guess": "Betulla",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 44158048,
    "url": "https://www.inaturalist.org/observations/44158048",
-   "image_url": "https://static.inaturalist.org/photos/70012550/medium.jpeg?1588099863",
    "latitude": 45.7218113024,
    "longitude": 9.7382939234,
    "species_guess": "dawn redwood",
@@ -68,40 +62,36 @@ var data = `[
  {
    "id": 45757633,
    "url": "https://www.inaturalist.org/observations/45757633",
-   "image_url": "https://static.inaturalist.org/photos/72571347/medium.jpeg?1589355518",
    "latitude": 45.7264122389,
    "longitude": 9.7359868884,
    "species_guess": "Tiglio selvatico",
    "scientific_name": "Tilia cordata",
    "common_name": "Tiglio selvatico",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 45757682,
    "url": "https://www.inaturalist.org/observations/45757682",
-   "image_url": "https://static.inaturalist.org/photos/72571386/medium.jpeg?1589355587",
    "latitude": 45.7270856006,
    "longitude": 9.7371962294,
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 46388521,
    "url": "https://www.inaturalist.org/observations/46388521",
-   "image_url": "https://static.inaturalist.org/photos/73574409/medium.jpeg?1589820098",
    "latitude": 45.7313886507,
    "longitude": 9.7386640683,
    "species_guess": "Gelso",
    "scientific_name": "Morus nigra",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 48753781,
    "url": "https://www.inaturalist.org/observations/48753781",
-   "image_url": "https://static.inaturalist.org/photos/77375384/medium.jpeg?1591519311",
    "latitude": 45.721162689,
    "longitude": 9.7359080985,
    "species_guess": "Marusticano",
@@ -112,84 +102,76 @@ var data = `[
  {
    "id": 48775389,
    "url": "https://www.inaturalist.org/observations/48775389",
-   "image_url": "https://static.inaturalist.org/photos/77410246/medium.jpg?1591537862",
    "latitude": 45.7178998457,
    "longitude": 9.7370909527,
    "species_guess": "Catalpa",
    "scientific_name": "Catalpa bignonioides",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 8
  },
  {
    "id": 49544613,
    "url": "https://www.inaturalist.org/observations/49544613",
-   "image_url": "https://static.inaturalist.org/photos/78653646/medium.jpeg?1592114497",
    "latitude": 45.7260815234,
    "longitude": 9.7356720641,
    "species_guess": "Tiglio selvatico",
    "scientific_name": "Tilia cordata",
    "common_name": "Tiglio selvatico",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 58508162,
    "url": "https://www.inaturalist.org/observations/58508162",
-   "image_url": "https://static.inaturalist.org/photos/93417298/medium.jpeg?1599231491",
    "latitude": 45.7227066154,
    "longitude": 9.7316826135,
    "species_guess": "Narrow-leaved Ash",
    "scientific_name": "Fraxinus angustifolia",
    "common_name": "frassino a foglie strette",
-   "field_villads": null
+   "field_villads": 16
  },
  {
    "id": 58584908,
    "url": "https://www.inaturalist.org/observations/58584908",
-   "image_url": "https://static.inaturalist.org/photos/93544484/medium.jpeg?1599298452",
    "latitude": 45.7211014163,
    "longitude": 9.7396322619,
    "species_guess": "Atlas cedar",
    "scientific_name": "Cedrus atlantica",
    "common_name": "Cedro dell'Atlante",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 58609061,
    "url": "https://www.inaturalist.org/observations/58609061",
-   "image_url": "https://static.inaturalist.org/photos/93584633/medium.jpeg?1599320844",
    "latitude": 45.725999839,
    "longitude": 9.7299183905,
    "species_guess": "California incense-cedar",
    "scientific_name": "Calocedrus decurrens",
    "common_name": "Cedro della California",
-   "field_villads": null
+   "field_villads": 22
  },
  {
    "id": 58818607,
    "url": "https://www.inaturalist.org/observations/58818607",
-   "image_url": "https://static.inaturalist.org/photos/93933239/medium.jpeg?1599469600",
    "latitude": 45.7290433953,
    "longitude": 9.7344079893,
    "species_guess": "Mexican cypress",
    "scientific_name": "Cupressus lusitanica",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 58819276,
    "url": "https://www.inaturalist.org/observations/58819276",
-   "image_url": "https://static.inaturalist.org/photos/93934189/medium.jpeg?1599470591",
    "latitude": 45.7262453601,
    "longitude": 9.7358762473,
    "species_guess": "Tiglio selvatico",
    "scientific_name": "Tilia cordata",
    "common_name": "Tiglio selvatico",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 59416801,
    "url": "https://www.inaturalist.org/observations/59416801",
-   "image_url": "https://static.inaturalist.org/photos/94938073/medium.jpeg?1599978049",
    "latitude": 45.7213785042,
    "longitude": 9.7355858982,
    "species_guess": "Sweet olive",
@@ -200,29 +182,26 @@ var data = `[
  {
    "id": 59418689,
    "url": "https://www.inaturalist.org/observations/59418689",
-   "image_url": "https://static.inaturalist.org/photos/94941154/medium.jpeg?1599980537",
    "latitude": 45.7258460659,
    "longitude": 9.7354651988,
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 59975683,
    "url": "https://www.inaturalist.org/observations/59975683",
-   "image_url": "https://static.inaturalist.org/photos/95871172/medium.jpeg?1600445151",
    "latitude": 45.7284152143,
    "longitude": 9.7388622165,
    "species_guess": "silver maple",
    "scientific_name": "Acer saccharinum",
    "common_name": "Acero saccarino",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 60294967,
    "url": "https://www.inaturalist.org/observations/60294967",
-   "image_url": "https://static.inaturalist.org/photos/96401250/medium.jpeg?1600670908",
    "latitude": 45.7220151776,
    "longitude": 9.7384042293,
    "species_guess": "farnia",
@@ -233,40 +212,36 @@ var data = `[
  {
    "id": 60801976,
    "url": "https://www.inaturalist.org/observations/60801976",
-   "image_url": "https://static.inaturalist.org/photos/97245818/medium.jpeg?1601109753",
    "latitude": 45.7184281775,
    "longitude": 9.7366467118,
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field_villads": null
+   "field_villads": 7
  },
  {
    "id": 60802445,
    "url": "https://www.inaturalist.org/observations/60802445",
-   "image_url": "https://static.inaturalist.org/photos/97246748/medium.jpeg?1601110439",
    "latitude": 45.7188120752,
    "longitude": 9.7365337238,
    "species_guess": "Pioppo nero",
    "scientific_name": "Populus nigra",
    "common_name": "Pioppo nero",
-   "field_villads": null
+   "field_villads": 7
  },
  {
    "id": 60802485,
    "url": "https://www.inaturalist.org/observations/60802485",
-   "image_url": "https://static.inaturalist.org/photos/97246878/medium.jpeg?1601110535",
    "latitude": 45.7186985448,
    "longitude": 9.7364227474,
    "species_guess": "Alloro",
    "scientific_name": "Laurus nobilis",
    "common_name": "Alloro",
-   "field_villads": null
+   "field_villads": 7
  },
  {
    "id": 60930997,
    "url": "https://www.inaturalist.org/observations/60930997",
-   "image_url": "https://static.inaturalist.org/photos/97457727/medium.jpeg?1601188050",
    "latitude": 45.72120412,
    "longitude": 9.7362054884,
    "species_guess": "Atlas cedar",
@@ -277,7 +252,6 @@ var data = `[
  {
    "id": 60931725,
    "url": "https://www.inaturalist.org/observations/60931725",
-   "image_url": "https://static.inaturalist.org/photos/97459104/medium.jpeg?1601188942",
    "latitude": 45.7225121055,
    "longitude": 9.7363111004,
    "species_guess": "Cerro",
@@ -288,51 +262,46 @@ var data = `[
  {
    "id": 60960028,
    "url": "https://www.inaturalist.org/observations/60960028",
-   "image_url": "https://static.inaturalist.org/photos/97505920/medium.jpeg?1601215919",
    "latitude": 45.7153922495,
    "longitude": 9.7288320959,
    "species_guess": "Lauroceraso",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field_villads": null
+   "field_villads": 11
  },
  {
    "id": 60960696,
    "url": "https://www.inaturalist.org/observations/60960696",
-   "image_url": "https://static.inaturalist.org/photos/97506948/medium.jpeg?1601216223",
    "latitude": 45.7152218263,
    "longitude": 9.7289219499,
    "species_guess": "Quercia rossa",
    "scientific_name": "Quercus rubra",
    "common_name": "Quercia rossa",
-   "field_villads": null
+   "field_villads": 11
  },
  {
    "id": 60961027,
    "url": "https://www.inaturalist.org/observations/60961027",
-   "image_url": "https://static.inaturalist.org/photos/97507620/medium.jpeg?1601216425",
    "latitude": 45.7152908852,
    "longitude": 9.7287978977,
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field_villads": null
+   "field_villads": 11
  },
  {
    "id": 60961402,
    "url": "https://www.inaturalist.org/observations/60961402",
-   "image_url": "https://static.inaturalist.org/photos/97508197/medium.jpeg?1601216600",
    "latitude": 45.715135678,
    "longitude": 9.7286225483,
    "species_guess": "acero riccio",
    "scientific_name": "Acer platanoides",
    "common_name": "acero riccio",
-   "field_villads": null
+   "field_villads": 11
  },
  {
    "id": 61075392,
    "url": "https://www.inaturalist.org/observations/61075392",
-   "image_url": "https://static.inaturalist.org/photos/97900520/medium.jpeg?1601373482",
    "latitude": 45.7211022981,
    "longitude": 9.7355828807,
    "species_guess": "Tilia americana",
@@ -343,7 +312,6 @@ var data = `[
  {
    "id": 61188440,
    "url": "https://www.inaturalist.org/observations/61188440",
-   "image_url": "https://static.inaturalist.org/photos/97887851/medium.jpeg?1601360619",
    "latitude": 45.721268256,
    "longitude": 9.7360043228,
    "species_guess": "cipresso mediterraneo",
@@ -354,7 +322,6 @@ var data = `[
  {
    "id": 61188486,
    "url": "https://www.inaturalist.org/observations/61188486",
-   "image_url": "https://static.inaturalist.org/photos/97887981/medium.jpeg?1601360749",
    "latitude": 45.7211863304,
    "longitude": 9.7356412187,
    "species_guess": "European beech",
@@ -365,7 +332,6 @@ var data = `[
  {
    "id": 61188549,
    "url": "https://www.inaturalist.org/observations/61188549",
-   "image_url": "https://static.inaturalist.org/photos/97888131/medium.jpeg?1601360908",
    "latitude": 45.7212607657,
    "longitude": 9.735491015,
    "species_guess": "Faggio",
@@ -376,7 +342,6 @@ var data = `[
  {
    "id": 61188579,
    "url": "https://www.inaturalist.org/observations/61188579",
-   "image_url": "https://static.inaturalist.org/photos/97888204/medium.jpeg?1601360966",
    "latitude": 45.7212509346,
    "longitude": 9.7356553003,
    "species_guess": "Bosso comune",
@@ -387,7 +352,6 @@ var data = `[
  {
    "id": 61188640,
    "url": "https://www.inaturalist.org/observations/61188640",
-   "image_url": "https://static.inaturalist.org/photos/97888304/medium.jpeg?1601361064",
    "latitude": 45.7213431593,
    "longitude": 9.7357632592,
    "species_guess": "Carpino bianco",
@@ -398,7 +362,6 @@ var data = `[
  {
    "id": 61188752,
    "url": "https://www.inaturalist.org/observations/61188752",
-   "image_url": "https://static.inaturalist.org/photos/97888442/medium.jpeg?1601361179",
    "latitude": 45.7217459967,
    "longitude": 9.7351594269,
    "species_guess": "Cedrus deodara",
@@ -409,7 +372,6 @@ var data = `[
  {
    "id": 61188812,
    "url": "https://www.inaturalist.org/observations/61188812",
-   "image_url": "https://static.inaturalist.org/photos/97888514/medium.jpeg?1601361248",
    "latitude": 45.7218803532,
    "longitude": 9.7351332754,
    "species_guess": "Alloro",
@@ -420,7 +382,6 @@ var data = `[
  {
    "id": 61281083,
    "url": "https://www.inaturalist.org/observations/61281083",
-   "image_url": "https://static.inaturalist.org/photos/98046882/medium.jpeg?1601449366",
    "latitude": 45.721999963,
    "longitude": 9.73768875,
    "species_guess": "Robinia",
@@ -431,7 +392,6 @@ var data = `[
  {
    "id": 61281100,
    "url": "https://www.inaturalist.org/observations/61281100",
-   "image_url": "https://static.inaturalist.org/photos/98046909/medium.jpeg?1601449423",
    "latitude": 45.7219758538,
    "longitude": 9.7377125546,
    "species_guess": "Betulla",
@@ -442,7 +402,6 @@ var data = `[
  {
    "id": 61458360,
    "url": "https://www.inaturalist.org/observations/61458360",
-   "image_url": "https://static.inaturalist.org/photos/98351379/medium.jpeg?1601622095",
    "latitude": 45.7212455509,
    "longitude": 9.7359503433,
    "species_guess": "agrifoglio",
@@ -453,139 +412,126 @@ var data = `[
  {
    "id": 61458674,
    "url": "https://www.inaturalist.org/observations/61458674",
-   "image_url": "https://static.inaturalist.org/photos/98351976/medium.jpeg?1601622874",
    "latitude": 45.7240482705,
    "longitude": 9.7371368855,
    "species_guess": "Tilia americana",
    "scientific_name": "Tilia americana",
    "common_name": "Tiglio americano",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61458696,
    "url": "https://www.inaturalist.org/observations/61458696",
-   "image_url": "https://static.inaturalist.org/photos/98352035/medium.jpeg?1601622953",
    "latitude": 45.7240286093,
    "longitude": 9.7369709238,
    "species_guess": "Acero montano",
    "scientific_name": "Acer pseudoplatanus",
    "common_name": "Acero montano",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61458757,
    "url": "https://www.inaturalist.org/observations/61458757",
-   "image_url": "https://static.inaturalist.org/photos/98352381/medium.jpeg?1601623270",
    "latitude": 45.7240742513,
    "longitude": 9.7371861711,
    "species_guess": "Atlas cedar",
    "scientific_name": "Cedrus atlantica",
    "common_name": "Cedro dell'Atlante",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61459112,
    "url": "https://www.inaturalist.org/observations/61459112",
-   "image_url": "https://static.inaturalist.org/photos/98352734/medium.jpeg?1601623664",
    "latitude": 45.7246259306,
    "longitude": 9.7371184453,
    "species_guess": "Ligustrum lucidum",
    "scientific_name": "Ligustrum lucidum",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61459332,
    "url": "https://www.inaturalist.org/observations/61459332",
-   "image_url": "https://static.inaturalist.org/photos/98353043/medium.jpeg?1601624053",
    "latitude": 45.7258692372,
    "longitude": 9.7354635224,
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61459404,
    "url": "https://www.inaturalist.org/observations/61459404",
-   "image_url": "https://static.inaturalist.org/photos/98353160/medium.jpeg?1601624198",
    "latitude": 45.726079417,
    "longitude": 9.7356593236,
    "species_guess": "Acero campestre",
    "scientific_name": "Acer campestre",
    "common_name": "Acero campestre",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61459987,
    "url": "https://www.inaturalist.org/observations/61459987",
-   "image_url": "https://static.inaturalist.org/photos/98354144/medium.jpeg?1601625159",
    "latitude": 45.72896217,
    "longitude": 9.7382791713,
    "species_guess": "Juniperus sabina",
    "scientific_name": "Juniperus sabina",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61460127,
    "url": "https://www.inaturalist.org/observations/61460127",
-   "image_url": "https://static.inaturalist.org/photos/98354422/medium.jpeg?1601625474",
    "latitude": 45.7301108297,
    "longitude": 9.7363395989,
    "species_guess": "Gelso",
    "scientific_name": "Morus nigra",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61460157,
    "url": "https://www.inaturalist.org/observations/61460157",
-   "image_url": "https://static.inaturalist.org/photos/98354494/medium.jpeg?1601625560",
    "latitude": 45.7302503149,
    "longitude": 9.7361327335,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61460713,
    "url": "https://www.inaturalist.org/observations/61460713",
-   "image_url": "https://static.inaturalist.org/photos/98355338/medium.jpeg?1601626584",
    "latitude": 45.7266357575,
    "longitude": 9.7307451814,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 22
  },
  {
    "id": 61460741,
    "url": "https://www.inaturalist.org/observations/61460741",
-   "image_url": "https://static.inaturalist.org/photos/98355392/medium.jpeg?1601626633",
    "latitude": 45.7265112426,
    "longitude": 9.7305815667,
    "species_guess": "Lauroceraso",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field_villads": null
+   "field_villads": 22
  },
  {
    "id": 61460922,
    "url": "https://www.inaturalist.org/observations/61460922",
-   "image_url": "https://static.inaturalist.org/photos/98355654/medium.jpeg?1601626907",
    "latitude": 45.7247820476,
    "longitude": 9.7283244878,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 22
  },
  {
    "id": 61758438,
    "url": "https://www.inaturalist.org/observations/61758438",
-   "image_url": "https://static.inaturalist.org/photos/98862248/medium.jpeg?1601879562",
    "latitude": 45.7212968129,
    "longitude": 9.7360298038,
    "species_guess": "cipresso mediterraneo",
@@ -596,183 +542,166 @@ var data = `[
  {
    "id": 61759149,
    "url": "https://www.inaturalist.org/observations/61759149",
-   "image_url": "https://static.inaturalist.org/photos/98863497/medium.jpeg?1601880906",
    "latitude": 45.7244145751,
    "longitude": 9.7377514467,
    "species_guess": "Olmo siberiano",
    "scientific_name": "Ulmus pumila",
    "common_name": "Olmo siberiano",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61759165,
    "url": "https://www.inaturalist.org/observations/61759165",
-   "image_url": "https://static.inaturalist.org/photos/98863544/medium.jpeg?1601880946",
    "latitude": 45.7245952689,
    "longitude": 9.7380404547,
    "species_guess": "Tilia americana",
    "scientific_name": "Tilia americana",
    "common_name": "Tiglio americano",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61759185,
    "url": "https://www.inaturalist.org/observations/61759185",
-   "image_url": "https://static.inaturalist.org/photos/98863618/medium.jpeg?1601881028",
    "latitude": 45.7247778346,
    "longitude": 9.7381396964,
    "species_guess": "Acero montano",
    "scientific_name": "Acer pseudoplatanus",
    "common_name": "Acero montano",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61759207,
    "url": "https://www.inaturalist.org/observations/61759207",
-   "image_url": "https://static.inaturalist.org/photos/98863679/medium.jpeg?1601881088",
    "latitude": 45.7248461795,
    "longitude": 9.7381779179,
    "species_guess": "Abete rosso",
    "scientific_name": "Picea abies",
    "common_name": "Abete rosso",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61759223,
    "url": "https://www.inaturalist.org/observations/61759223",
-   "image_url": "https://static.inaturalist.org/photos/98863742/medium.jpeg?1601881158",
    "latitude": 45.7252714611,
    "longitude": 9.738384448,
    "species_guess": "Ippocastano",
    "scientific_name": "Aesculus hippocastanum",
    "common_name": "Ippocastano",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61759308,
    "url": "https://www.inaturalist.org/observations/61759308",
-   "image_url": "https://static.inaturalist.org/photos/98864219/medium.jpeg?1601881728",
    "latitude": 45.7253662538,
    "longitude": 9.7384156287,
    "species_guess": "silver birch",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61759506,
    "url": "https://www.inaturalist.org/observations/61759506",
-   "image_url": "https://static.inaturalist.org/photos/98864301/medium.jpeg?1601881830",
    "latitude": 45.7256403323,
    "longitude": 9.7385715321,
    "species_guess": "Atlas cedar",
    "scientific_name": "Cedrus atlantica",
    "common_name": "Cedro dell'Atlante",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61759555,
    "url": "https://www.inaturalist.org/observations/61759555",
-   "image_url": "https://static.inaturalist.org/photos/98864397/medium.jpeg?1601881923",
    "latitude": 45.7258549599,
    "longitude": 9.7388226539,
    "species_guess": "silver maple",
    "scientific_name": "Acer saccharinum",
    "common_name": "Acero saccarino",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61759596,
    "url": "https://www.inaturalist.org/observations/61759596",
-   "image_url": "https://static.inaturalist.org/photos/98864465/medium.jpeg?1601881993",
    "latitude": 45.7259146436,
    "longitude": 9.7389758751,
    "species_guess": "Deodar cedar",
    "scientific_name": "Cedrus deodara",
    "common_name": "Cedro dell'Himalaya",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61759697,
    "url": "https://www.inaturalist.org/observations/61759697",
-   "image_url": "https://static.inaturalist.org/photos/98864634/medium.jpeg?1601882219",
    "latitude": 45.7261618035,
    "longitude": 9.7391381487,
    "species_guess": "Acero montano",
    "scientific_name": "Acer pseudoplatanus",
    "common_name": "Acero montano",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61759770,
    "url": "https://www.inaturalist.org/observations/61759770",
-   "image_url": "https://static.inaturalist.org/photos/98864750/medium.jpeg?1601882351",
    "latitude": 45.7260564798,
    "longitude": 9.7390503064,
    "species_guess": "Olmo siberiano",
    "scientific_name": "Ulmus pumila",
    "common_name": "Olmo siberiano",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61759819,
    "url": "https://www.inaturalist.org/observations/61759819",
-   "image_url": "https://static.inaturalist.org/photos/98864828/medium.jpeg?1601882463",
    "latitude": 45.7261973794,
    "longitude": 9.7393010929,
    "species_guess": "Storace americano",
    "scientific_name": "Liquidambar styraciflua",
    "common_name": "Storace americano",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61760387,
    "url": "https://www.inaturalist.org/observations/61760387",
-   "image_url": "https://static.inaturalist.org/photos/98865689/medium.jpeg?1601883704",
    "latitude": 45.7260403301,
    "longitude": 9.7359650955,
    "species_guess": "Lawson's cypress",
    "scientific_name": "Chamaecyparis lawsoniana",
    "common_name": "cipresso di Lawson",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61767010,
    "url": "https://www.inaturalist.org/observations/61767010",
-   "image_url": "https://static.inaturalist.org/photos/98877915/medium.jpeg?1601896680",
    "latitude": 45.7215180112,
    "longitude": 9.731390588,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 17
  },
  {
    "id": 61767049,
    "url": "https://www.inaturalist.org/observations/61767049",
-   "image_url": "https://static.inaturalist.org/photos/98877963/medium.jpeg?1601896723",
    "latitude": 45.7214805597,
    "longitude": 9.7314288095,
    "species_guess": "Acero campestre",
    "scientific_name": "Acer campestre",
    "common_name": "Acero campestre",
-   "field_villads": null
+   "field_villads": 17
  },
  {
    "id": 61767106,
    "url": "https://www.inaturalist.org/observations/61767106",
-   "image_url": "https://static.inaturalist.org/photos/98878053/medium.jpeg?1601896806",
    "latitude": 45.721621939,
    "longitude": 9.7299653292,
    "species_guess": "cipresso mediterraneo",
    "scientific_name": "Cupressus sempervirens",
    "common_name": "cipresso mediterraneo",
-   "field_villads": null
+   "field_villads": 17
  },
  {
    "id": 61843608,
    "url": "https://www.inaturalist.org/observations/61843608",
-   "image_url": "https://static.inaturalist.org/photos/99011975/medium.jpeg?1601965330",
    "latitude": 45.7221876867,
    "longitude": 9.7364747152,
    "species_guess": "Spaccasassi",
@@ -783,18 +712,16 @@ var data = `[
  {
    "id": 61859253,
    "url": "https://www.inaturalist.org/observations/61859253",
-   "image_url": "https://static.inaturalist.org/photos/99037827/medium.jpeg?1601991672",
    "latitude": 45.7178771392,
    "longitude": 9.7371224687,
    "species_guess": "southern catalpa",
    "scientific_name": "Catalpa bignonioides",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 8
  },
  {
    "id": 61865129,
    "url": "https://www.inaturalist.org/observations/61865129",
-   "image_url": "https://static.inaturalist.org/photos/99047743/medium.jpeg?1601997091",
    "latitude": 45.7212991536,
    "longitude": 9.73775547,
    "species_guess": "Acero americano",
@@ -805,7 +732,6 @@ var data = `[
  {
    "id": 61865246,
    "url": "https://www.inaturalist.org/observations/61865246",
-   "image_url": "https://static.inaturalist.org/photos/99048059/medium.jpeg?1601997209",
    "latitude": 45.7214892204,
    "longitude": 9.7378493473,
    "species_guess": "acero riccio",
@@ -816,7 +742,6 @@ var data = `[
  {
    "id": 61865389,
    "url": "https://www.inaturalist.org/observations/61865389",
-   "image_url": "https://static.inaturalist.org/photos/99048286/medium.jpeg?1601997327",
    "latitude": 45.7214185306,
    "longitude": 9.7377182543,
    "species_guess": "silver maple",
@@ -827,7 +752,6 @@ var data = `[
  {
    "id": 61865469,
    "url": "https://www.inaturalist.org/observations/61865469",
-   "image_url": "https://static.inaturalist.org/photos/99048434/medium.jpeg?1601997390",
    "latitude": 45.7214056566,
    "longitude": 9.7375291586,
    "species_guess": "Horse-chestnut",
@@ -838,183 +762,166 @@ var data = `[
  {
    "id": 61943518,
    "url": "https://www.inaturalist.org/observations/61943518",
-   "image_url": "https://static.inaturalist.org/photos/99183305/medium.jpeg?1602077603",
    "latitude": 45.720578673,
    "longitude": 9.7275996208,
    "species_guess": "Acero montano",
    "scientific_name": "Acer pseudoplatanus",
    "common_name": "Acero montano",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 61943621,
    "url": "https://www.inaturalist.org/observations/61943621",
-   "image_url": "https://static.inaturalist.org/photos/99183404/medium.jpeg?1602077693",
    "latitude": 45.720855584,
    "longitude": 9.7275563702,
    "species_guess": "Nocciolo",
    "scientific_name": "Corylus avellana",
    "common_name": "Nocciolo",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 61943831,
    "url": "https://www.inaturalist.org/observations/61943831",
-   "image_url": "https://static.inaturalist.org/photos/99183728/medium.jpeg?1602077951",
    "latitude": 45.7214129128,
    "longitude": 9.7280374914,
    "species_guess": "Acero campestre",
    "scientific_name": "Acer campestre",
    "common_name": "Acero campestre",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 61944696,
    "url": "https://www.inaturalist.org/observations/61944696",
-   "image_url": "https://static.inaturalist.org/photos/99185329/medium.jpeg?1602078880",
    "latitude": 45.7270856006,
    "longitude": 9.7317379341,
    "species_guess": "Robinia",
    "scientific_name": "Robinia pseudoacacia",
    "common_name": "Robinia",
-   "field_villads": null
+   "field_villads": 22
  },
  {
    "id": 61945660,
    "url": "https://www.inaturalist.org/observations/61945660",
-   "image_url": "https://static.inaturalist.org/photos/99186919/medium.jpeg?1602079759",
    "latitude": 45.7275429295,
    "longitude": 9.7359091043,
    "species_guess": "Betulla",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 61946595,
    "url": "https://www.inaturalist.org/observations/61946595",
-   "image_url": "https://static.inaturalist.org/photos/99188667/medium.jpeg?1602080568",
    "latitude": 45.7270322375,
    "longitude": 9.7359064221,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 62275116,
    "url": "https://www.inaturalist.org/observations/62275116",
-   "image_url": "https://static.inaturalist.org/photos/99759374/medium.jpeg?1602398633",
    "latitude": 45.7204410363,
    "longitude": 9.7371818125,
    "species_guess": "Sweet olive",
    "scientific_name": "Osmanthus fragrans",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 62544833,
    "url": "https://www.inaturalist.org/observations/62544833",
-   "image_url": "https://static.inaturalist.org/photos/100230183/medium.jpeg?1602664983",
    "latitude": 45.7180110369,
    "longitude": 9.7325244918,
    "species_guess": "Tiglio selvatico",
    "scientific_name": "Tilia cordata",
    "common_name": "Tiglio selvatico",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 62544940,
    "url": "https://www.inaturalist.org/observations/62544940",
-   "image_url": "https://static.inaturalist.org/photos/100230308/medium.jpeg?1602665136",
    "latitude": 45.7184052372,
    "longitude": 9.7326019406,
    "species_guess": "Mahonia aquifolium",
    "scientific_name": "Berberis aquifolium",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 19
  },
  {
    "id": 62623238,
    "url": "https://www.inaturalist.org/observations/62623238",
-   "image_url": "https://static.inaturalist.org/photos/100367281/medium.jpeg?1602750214",
    "latitude": 45.7224098178,
    "longitude": 9.7281749547,
    "species_guess": "Japanese Cherry",
    "scientific_name": "Prunus serrulata",
    "common_name": "Ciliegio giapponese",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 62623272,
    "url": "https://www.inaturalist.org/observations/62623272",
-   "image_url": "https://static.inaturalist.org/photos/100367392/medium.jpeg?1602750315",
    "latitude": 45.7225046153,
    "longitude": 9.7283275053,
    "species_guess": "Acacia di Costantinopoli",
    "scientific_name": "Albizia julibrissin",
    "common_name": "Acacia di Costantinopoli",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 62623326,
    "url": "https://www.inaturalist.org/observations/62623326",
-   "image_url": "https://static.inaturalist.org/photos/100367491/medium.jpeg?1602750419",
    "latitude": 45.7225048494,
    "longitude": 9.7283677384,
    "species_guess": "Nocciolo",
    "scientific_name": "Corylus avellana",
    "common_name": "Nocciolo",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 62623446,
    "url": "https://www.inaturalist.org/observations/62623446",
-   "image_url": "https://static.inaturalist.org/photos/100367703/medium.jpeg?1602750662",
    "latitude": 45.722670335,
    "longitude": 9.728993699,
    "species_guess": "Prunus serrulata",
    "scientific_name": "Prunus serrulata",
    "common_name": "Ciliegio giapponese",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 62623484,
    "url": "https://www.inaturalist.org/observations/62623484",
-   "image_url": "https://static.inaturalist.org/photos/100367781/medium.jpeg?1602750711",
    "latitude": 45.7227620892,
    "longitude": 9.7289504483,
    "species_guess": "Albero di Giuda",
    "scientific_name": "Cercis siliquastrum",
    "common_name": "Albero di Giuda",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 62623761,
    "url": "https://www.inaturalist.org/observations/62623761",
-   "image_url": "https://static.inaturalist.org/photos/100368363/medium.jpeg?1602751371",
    "latitude": 45.7191503244,
    "longitude": 9.7321657464,
    "species_guess": "Cedrus deodara",
    "scientific_name": "Cedrus deodara",
    "common_name": "Cedro dell'Himalaya",
-   "field_villads": null
+   "field_villads": 18
  },
  {
    "id": 62623928,
    "url": "https://www.inaturalist.org/observations/62623928",
-   "image_url": "https://static.inaturalist.org/photos/100368621/medium.jpeg?1602751625",
    "latitude": 45.7187029924,
    "longitude": 9.7325305268,
    "species_guess": "cypresses",
    "scientific_name": "Cupressus",
    "common_name": "Cipressi",
-   "field_villads": null
+   "field_villads": 19
  },
  {
    "id": 62697845,
    "url": "https://www.inaturalist.org/observations/62697845",
-   "image_url": "https://static.inaturalist.org/photos/100500812/medium.jpeg?1602840515",
    "latitude": 45.7209590449,
    "longitude": 9.7361622378,
    "species_guess": "Carpino bianco",
@@ -1025,40 +932,36 @@ var data = `[
  {
    "id": 62900269,
    "url": "https://www.inaturalist.org/observations/62900269",
-   "image_url": "https://static.inaturalist.org/photos/100862029/medium.jpeg?1603033318",
    "latitude": 45.7199459626,
    "longitude": 9.7276190668,
    "species_guess": "Olmo siberiano",
    "scientific_name": "Ulmus pumila",
    "common_name": "Olmo siberiano",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 62902055,
    "url": "https://www.inaturalist.org/observations/62902055",
-   "image_url": "https://static.inaturalist.org/photos/100865277/medium.jpeg?1603034331",
    "latitude": 45.7220685455,
    "longitude": 9.7283680737,
    "species_guess": "Quercia rossa",
    "scientific_name": "Quercus rubra",
    "common_name": "Quercia rossa",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 63554992,
    "url": "https://www.inaturalist.org/observations/63554992",
-   "image_url": "https://static.inaturalist.org/photos/102017212/medium.jpeg?1603699190",
    "latitude": 45.7186278515,
    "longitude": 9.7325704247,
    "species_guess": "palma nana",
    "scientific_name": "Chamaerops humilis",
    "common_name": "palma nana",
-   "field_villads": null
+   "field_villads": 19
  },
  {
    "id": 64165735,
    "url": "https://www.inaturalist.org/observations/64165735",
-   "image_url": "https://static.inaturalist.org/photos/103115410/medium.jpeg?1604483126",
    "latitude": 45.7221045921,
    "longitude": 9.7358098626,
    "species_guess": "Deodar cedar",
@@ -1069,20 +972,18 @@ var data = `[
  {
    "id": 64506529,
    "url": "https://www.inaturalist.org/observations/64506529",
-   "image_url": "https://static.inaturalist.org/photos/103719891/medium.jpeg?1604906079",
    "latitude": 45.721060633,
    "longitude": 9.7396923602,
    "species_guess": "Acero palmato",
    "scientific_name": "Acer palmatum",
    "common_name": "Acero palmato",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 64519097,
    "url": "https://www.inaturalist.org/observations/64519097",
-   "image_url": "https://static.inaturalist.org/photos/103741857/medium.jpeg?1604930024",
-   "latitude": 45.7219323168,
-   "longitude": 9.7349642962,
+   "latitude": 45.7218553077,
+   "longitude": 9.7349807248,
    "species_guess": "Taxus",
    "scientific_name": "Taxus baccata",
    "common_name": "albero della morte",
@@ -1091,84 +992,76 @@ var data = `[
  {
    "id": 64519737,
    "url": "https://www.inaturalist.org/observations/64519737",
-   "image_url": "https://static.inaturalist.org/photos/103742980/medium.jpeg?1604930732",
    "latitude": 45.723784951,
    "longitude": 9.7377950326,
    "species_guess": "Ginco",
    "scientific_name": "Ginkgo biloba",
    "common_name": "Ginco",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 64520456,
    "url": "https://www.inaturalist.org/observations/64520456",
-   "image_url": "https://static.inaturalist.org/photos/103744089/medium.jpeg?1604931463",
    "latitude": 45.7276304629,
    "longitude": 9.7378506884,
    "species_guess": "silver maple",
    "scientific_name": "Acer saccharinum",
    "common_name": "Acero saccarino",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 64520869,
    "url": "https://www.inaturalist.org/observations/64520869",
-   "image_url": "https://static.inaturalist.org/photos/103744828/medium.jpeg?1604931881",
    "latitude": 45.7280185101,
    "longitude": 9.7385789081,
    "species_guess": "acero riccio",
    "scientific_name": "Acer platanoides",
    "common_name": "acero riccio",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 64521206,
    "url": "https://www.inaturalist.org/observations/64521206",
-   "image_url": "https://static.inaturalist.org/photos/103745468/medium.jpeg?1604932295",
    "latitude": 45.7282736182,
    "longitude": 9.7387649864,
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 64521498,
    "url": "https://www.inaturalist.org/observations/64521498",
-   "image_url": "https://static.inaturalist.org/photos/103745860/medium.jpeg?1604932527",
    "latitude": 45.7283777675,
    "longitude": 9.7387022898,
    "species_guess": "sycamore maple",
    "scientific_name": "Acer pseudoplatanus",
    "common_name": "Acero montano",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 64522041,
    "url": "https://www.inaturalist.org/observations/64522041",
-   "image_url": "https://static.inaturalist.org/photos/103746874/medium.jpeg?1604933223",
    "latitude": 45.7287555117,
    "longitude": 9.7384173051,
    "species_guess": "Tilia americana",
    "scientific_name": "Tilia americana",
    "common_name": "Tiglio americano",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 64522079,
    "url": "https://www.inaturalist.org/observations/64522079",
-   "image_url": "https://static.inaturalist.org/photos/103746947/medium.jpeg?1604933271",
    "latitude": 45.7287606607,
    "longitude": 9.7384686023,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 64585223,
    "url": "https://www.inaturalist.org/observations/64585223",
-   "image_url": "https://static.inaturalist.org/photos/103852946/medium.jpeg?1604993605",
    "latitude": 45.7216301315,
    "longitude": 9.7382701188,
    "species_guess": "Japanese Cherry",
@@ -1179,106 +1072,96 @@ var data = `[
  {
    "id": 64672898,
    "url": "https://www.inaturalist.org/observations/64672898",
-   "image_url": "https://static.inaturalist.org/photos/104007606/medium.jpeg?1605110226",
    "latitude": 45.7211228965,
    "longitude": 9.7392813116,
    "species_guess": "Acero palmato",
    "scientific_name": "Acer palmatum",
    "common_name": "Acero palmato",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 65067877,
    "url": "https://www.inaturalist.org/observations/65067877",
-   "image_url": "https://static.inaturalist.org/photos/104707178/medium.jpeg?1605611547",
    "latitude": 45.7207762326,
    "longitude": 9.7375995666,
    "species_guess": "Japanese Persimmon",
    "scientific_name": "Diospyros kaki",
    "common_name": "Cachi",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 65138777,
    "url": "https://www.inaturalist.org/observations/65138777",
-   "image_url": "https://static.inaturalist.org/photos/104802864/medium.jpeg?1605685312",
    "latitude": 45.7207214591,
    "longitude": 9.7374413162,
    "species_guess": "tulip tree",
    "scientific_name": "Liriodendron tulipifera",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 65268634,
    "url": "https://www.inaturalist.org/observations/65268634",
-   "image_url": "https://static.inaturalist.org/photos/105020989/medium.jpeg?1605869525",
    "latitude": 45.7235588463,
    "longitude": 9.7343396768,
    "species_guess": "Acer saccharinum",
    "scientific_name": "Acer saccharinum",
    "common_name": "Acero saccarino",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 65473236,
    "url": "https://www.inaturalist.org/observations/65473236",
-   "image_url": "https://static.inaturalist.org/photos/105390074/medium.jpeg?1606143351",
    "latitude": 45.7230928243,
    "longitude": 9.7283513099,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 65473308,
    "url": "https://www.inaturalist.org/observations/65473308",
-   "image_url": "https://static.inaturalist.org/photos/105390204/medium.jpeg?1606143478",
    "latitude": 45.7235272477,
    "longitude": 9.7283757851,
    "species_guess": "farnia",
    "scientific_name": "Quercus robur",
    "common_name": "farnia",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 65683231,
    "url": "https://www.inaturalist.org/observations/65683231",
-   "image_url": "https://static.inaturalist.org/photos/105758618/medium.jpeg?1606463579",
    "latitude": 45.7330174791,
    "longitude": 9.7475948185,
    "species_guess": "Pioppo nero",
    "scientific_name": "Populus nigra",
    "common_name": "Pioppo nero",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 65931108,
    "url": "https://www.inaturalist.org/observations/65931108",
-   "image_url": "https://static.inaturalist.org/photos/106199638/medium.jpeg?1606809297",
    "latitude": 45.7166938164,
    "longitude": 9.734364152,
    "species_guess": "blue spruce",
    "scientific_name": "Picea pungens",
    "common_name": "Peccio del Colorado",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 65931174,
    "url": "https://www.inaturalist.org/observations/65931174",
-   "image_url": "https://static.inaturalist.org/photos/106199664/medium.jpeg?1606809321",
    "latitude": 45.716629207,
    "longitude": 9.7343587875,
    "species_guess": "ginepro",
    "scientific_name": "Juniperus",
    "common_name": "ginepro",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 66085799,
    "url": "https://www.inaturalist.org/observations/66085799",
-   "image_url": "https://static.inaturalist.org/photos/106459083/medium.jpeg?1607077849",
    "latitude": 45.721730548,
    "longitude": 9.7377678752,
    "species_guess": "acer saccharinum",
@@ -1289,7 +1172,6 @@ var data = `[
  {
    "id": 66085881,
    "url": "https://www.inaturalist.org/observations/66085881",
-   "image_url": "https://static.inaturalist.org/photos/106459354/medium.jpeg?1607078344",
    "latitude": 45.7216572838,
    "longitude": 9.7378500178,
    "species_guess": "Catalpa",
@@ -1300,18 +1182,16 @@ var data = `[
  {
    "id": 66085978,
    "url": "https://www.inaturalist.org/observations/66085978",
-   "image_url": "https://static.inaturalist.org/photos/106459435/medium.jpeg?1607078516",
    "latitude": 45.7217609772,
    "longitude": 9.7379278019,
-   "species_guess": "Prunus",
-   "scientific_name": "Prunus",
+   "species_guess": "Prunus cerasifera pissardii",
+   "scientific_name": "Prunus cerasifera pissardii",
    "common_name": "",
    "field_villads": 6
  },
  {
    "id": 66086010,
    "url": "https://www.inaturalist.org/observations/66086010",
-   "image_url": "https://static.inaturalist.org/photos/106459468/medium.jpeg?1607078576",
    "latitude": 45.7218838643,
    "longitude": 9.7377390414,
    "species_guess": "silver birch",
@@ -1322,7 +1202,6 @@ var data = `[
  {
    "id": 66086026,
    "url": "https://www.inaturalist.org/observations/66086026",
-   "image_url": "https://static.inaturalist.org/photos/106459507/medium.jpeg?1607078643",
    "latitude": 45.7220322647,
    "longitude": 9.7376676276,
    "species_guess": "Robinia",
@@ -1333,7 +1212,6 @@ var data = `[
  {
    "id": 66086071,
    "url": "https://www.inaturalist.org/observations/66086071",
-   "image_url": "https://static.inaturalist.org/photos/106459541/medium.jpeg?1607078742",
    "latitude": 45.7219222518,
    "longitude": 9.7375204414,
    "species_guess": "Frassino maggiore",
@@ -1344,7 +1222,6 @@ var data = `[
  {
    "id": 66086084,
    "url": "https://www.inaturalist.org/observations/66086084",
-   "image_url": "https://static.inaturalist.org/photos/106459551/medium.jpeg?1607078790",
    "latitude": 45.7217478693,
    "longitude": 9.7374540567,
    "species_guess": "Spaccasassi",
@@ -1355,7 +1232,6 @@ var data = `[
  {
    "id": 66086109,
    "url": "https://www.inaturalist.org/observations/66086109",
-   "image_url": "https://static.inaturalist.org/photos/106459601/medium.jpeg?1607078920",
    "latitude": 45.7216331744,
    "longitude": 9.7368713468,
    "species_guess": "Deodar cedar",
@@ -1366,7 +1242,6 @@ var data = `[
  {
    "id": 66086118,
    "url": "https://www.inaturalist.org/observations/66086118",
-   "image_url": "https://static.inaturalist.org/photos/106459622/medium.jpeg?1607078974",
    "latitude": 45.722050054,
    "longitude": 9.7373410687,
    "species_guess": "Atlas cedar",
@@ -1377,7 +1252,6 @@ var data = `[
  {
    "id": 66086128,
    "url": "https://www.inaturalist.org/observations/66086128",
-   "image_url": "https://static.inaturalist.org/photos/106459638/medium.jpeg?1607079048",
    "latitude": 45.7219770242,
    "longitude": 9.7370483726,
    "species_guess": "Judas-tree",
@@ -1388,7 +1262,6 @@ var data = `[
  {
    "id": 66086150,
    "url": "https://www.inaturalist.org/observations/66086150",
-   "image_url": "https://static.inaturalist.org/photos/106459677/medium.jpeg?1607079164",
    "latitude": 45.7221104439,
    "longitude": 9.7369578481,
    "species_guess": "Carpino nero",
@@ -1399,18 +1272,16 @@ var data = `[
  {
    "id": 66086182,
    "url": "https://www.inaturalist.org/observations/66086182",
-   "image_url": "https://static.inaturalist.org/photos/106459782/medium.jpeg?1607079329",
    "latitude": 45.7222515875,
    "longitude": 9.7368036211,
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 66086206,
    "url": "https://www.inaturalist.org/observations/66086206",
-   "image_url": "https://static.inaturalist.org/photos/106459812/medium.jpeg?1607079412",
    "latitude": 45.7222466721,
    "longitude": 9.7366453707,
    "species_guess": "silver birch",
@@ -1421,7 +1292,6 @@ var data = `[
  {
    "id": 66086230,
    "url": "https://www.inaturalist.org/observations/66086230",
-   "image_url": "https://static.inaturalist.org/photos/106459842/medium.jpeg?1607079534",
    "latitude": 45.7220388186,
    "longitude": 9.7366768867,
    "species_guess": "Abete rosso",
@@ -1432,29 +1302,26 @@ var data = `[
  {
    "id": 66410384,
    "url": "https://www.inaturalist.org/observations/66410384",
-   "image_url": "https://static.inaturalist.org/photos/107054613/medium.jpeg?1607673851",
    "latitude": 45.7163806027,
    "longitude": 9.7322333883,
    "species_guess": "Acero montano",
    "scientific_name": "Acer pseudoplatanus",
    "common_name": "Acero montano",
-   "field_villads": null
+   "field_villads": 10
  },
  {
    "id": 66410400,
    "url": "https://www.inaturalist.org/observations/66410400",
-   "image_url": "https://static.inaturalist.org/photos/107054656/medium.jpeg?1607673931",
    "latitude": 45.7163361226,
    "longitude": 9.7322180495,
    "species_guess": "ginepro",
    "scientific_name": "Juniperus",
    "common_name": "ginepro",
-   "field_villads": null
+   "field_villads": 10
  },
  {
    "id": 66413284,
    "url": "https://www.inaturalist.org/observations/66413284",
-   "image_url": "https://static.inaturalist.org/photos/107059497/medium.jpeg?1607682486",
    "latitude": 45.7220926182,
    "longitude": 9.7364292853,
    "species_guess": "Alloro",
@@ -1465,7 +1332,6 @@ var data = `[
  {
    "id": 66413374,
    "url": "https://www.inaturalist.org/observations/66413374",
-   "image_url": "https://static.inaturalist.org/photos/107059605/medium.jpeg?1607682676",
    "latitude": 45.7218770357,
    "longitude": 9.7365041357,
    "species_guess": "Albero di Giuda",
@@ -1476,7 +1342,6 @@ var data = `[
  {
    "id": 66413398,
    "url": "https://www.inaturalist.org/observations/66413398",
-   "image_url": "https://static.inaturalist.org/photos/107059670/medium.jpeg?1607682785",
    "latitude": 45.7219360619,
    "longitude": 9.7362805903,
    "species_guess": "Lauroceraso",
@@ -1487,7 +1352,6 @@ var data = `[
  {
    "id": 66413426,
    "url": "https://www.inaturalist.org/observations/66413426",
-   "image_url": "https://static.inaturalist.org/photos/107059751/medium.jpeg?1607682901",
    "latitude": 45.7218906523,
    "longitude": 9.7361984476,
    "species_guess": "acero riccio",
@@ -1498,7 +1362,6 @@ var data = `[
  {
    "id": 66413490,
    "url": "https://www.inaturalist.org/observations/66413490",
-   "image_url": "https://static.inaturalist.org/photos/107059812/medium.jpeg?1607683047",
    "latitude": 45.7218176224,
    "longitude": 9.7364093363,
    "species_guess": "Acer saccharinum",
@@ -1509,7 +1372,6 @@ var data = `[
  {
    "id": 66413564,
    "url": "https://www.inaturalist.org/observations/66413564",
-   "image_url": "https://static.inaturalist.org/photos/107059944/medium.jpeg?1607683277",
    "latitude": 45.7215526538,
    "longitude": 9.737161696,
    "species_guess": "Spaccasassi",
@@ -1520,7 +1382,6 @@ var data = `[
  {
    "id": 66413627,
    "url": "https://www.inaturalist.org/observations/66413627",
-   "image_url": "https://static.inaturalist.org/photos/107060011/medium.jpeg?1607683446",
    "latitude": 45.7216533046,
    "longitude": 9.7368401662,
    "species_guess": "Liriodendron tulipifera",
@@ -1531,953 +1392,866 @@ var data = `[
  {
    "id": 66685861,
    "url": "https://www.inaturalist.org/observations/66685861",
-   "image_url": "https://static.inaturalist.org/photos/107557830/medium.jpeg?1608182578",
    "latitude": 45.7233535724,
    "longitude": 9.7289863229,
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 66685866,
    "url": "https://www.inaturalist.org/observations/66685866",
-   "image_url": "https://static.inaturalist.org/photos/107557851/medium.jpeg?1608182598",
    "latitude": 45.7225504925,
    "longitude": 9.7284609452,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 66685871,
    "url": "https://www.inaturalist.org/observations/66685871",
-   "image_url": "https://static.inaturalist.org/photos/107557867/medium.jpeg?1608182610",
    "latitude": 45.7192074403,
    "longitude": 9.727913104,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 66685887,
    "url": "https://www.inaturalist.org/observations/66685887",
-   "image_url": "https://static.inaturalist.org/photos/107557880/medium.jpeg?1608182624",
    "latitude": 45.719307393,
    "longitude": 9.7281196341,
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field_villads": null
+   "field_villads": 13
  },
  {
    "id": 66910719,
    "url": "https://www.inaturalist.org/observations/66910719",
-   "image_url": "https://static.inaturalist.org/photos/107974945/medium.jpeg?1608622844",
    "latitude": 45.7153222543,
    "longitude": 9.7296297178,
    "species_guess": "Betulla",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 66910732,
    "url": "https://www.inaturalist.org/observations/66910732",
-   "image_url": "https://static.inaturalist.org/photos/107974977/medium.jpeg?1608622919",
    "latitude": 45.7151705587,
    "longitude": 9.7293765843,
    "species_guess": "Deodar cedar",
    "scientific_name": "Cedrus deodara",
    "common_name": "Cedro dell'Himalaya",
-   "field_villads": null
+   "field_villads": 11
  },
  {
    "id": 66910744,
    "url": "https://www.inaturalist.org/observations/66910744",
-   "image_url": "https://static.inaturalist.org/photos/107975008/medium.jpeg?1608622985",
    "latitude": 45.7152396177,
    "longitude": 9.7292820364,
    "species_guess": "Cedrus atlantica",
    "scientific_name": "Cedrus atlantica",
    "common_name": "Cedro dell'Atlante",
-   "field_villads": null
+   "field_villads": 11
  },
  {
    "id": 66910762,
    "url": "https://www.inaturalist.org/observations/66910762",
-   "image_url": "https://static.inaturalist.org/photos/107975049/medium.jpeg?1608623083",
    "latitude": 45.715069194,
    "longitude": 9.7292267159,
    "species_guess": "Silberahorn",
    "scientific_name": "Acer saccharinum",
    "common_name": "Acero saccarino",
-   "field_villads": null
+   "field_villads": 11
  },
  {
    "id": 66910824,
    "url": "https://www.inaturalist.org/observations/66910824",
-   "image_url": "https://static.inaturalist.org/photos/107975204/medium.jpeg?1608623338",
    "latitude": 45.7152157397,
    "longitude": 9.7285873443,
    "species_guess": "Marusticano",
    "scientific_name": "Prunus cerasifera",
    "common_name": "Marusticano",
-   "field_villads": null
+   "field_villads": 11
  },
  {
    "id": 66910840,
    "url": "https://www.inaturalist.org/observations/66910840",
-   "image_url": "https://static.inaturalist.org/photos/107975240/medium.jpeg?1608623419",
    "latitude": 45.7149043882,
    "longitude": 9.7282513976,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 11
  },
  {
    "id": 66910865,
    "url": "https://www.inaturalist.org/observations/66910865",
-   "image_url": "https://static.inaturalist.org/photos/107975292/medium.jpeg?1608623551",
    "latitude": 45.7146983802,
    "longitude": 9.7283546627,
    "species_guess": "Liriodendron tulipifera",
    "scientific_name": "Liriodendron tulipifera",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 11
  },
  {
    "id": 66910876,
    "url": "https://www.inaturalist.org/observations/66910876",
-   "image_url": "https://static.inaturalist.org/photos/107975319/medium.jpeg?1608623612",
    "latitude": 45.7146988484,
    "longitude": 9.7281256691,
    "species_guess": "Catalpa",
    "scientific_name": "Catalpa bignonioides",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 11
  },
  {
    "id": 66954729,
    "url": "https://www.inaturalist.org/observations/66954729",
-   "image_url": "https://static.inaturalist.org/photos/108058143/medium.jpeg?1608710931",
    "latitude": 45.7231557878,
    "longitude": 9.7301359847,
    "species_guess": "pino domestico",
    "scientific_name": "Pinus pinea",
    "common_name": "pino domestico",
-   "field_villads": null
+   "field_villads": 15
  },
  {
    "id": 66954760,
    "url": "https://www.inaturalist.org/observations/66954760",
-   "image_url": "https://static.inaturalist.org/photos/108058196/medium.jpeg?1608711013",
    "latitude": 45.7232147722,
    "longitude": 9.7306435928,
    "species_guess": "Betulla",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field_villads": null
+   "field_villads": 16
  },
  {
    "id": 66954799,
    "url": "https://www.inaturalist.org/observations/66954799",
-   "image_url": "https://static.inaturalist.org/photos/108058310/medium.jpeg?1608711236",
    "latitude": 45.7230256476,
    "longitude": 9.7305808961,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 16
  },
  {
    "id": 66954828,
    "url": "https://www.inaturalist.org/observations/66954828",
-   "image_url": "https://static.inaturalist.org/photos/108058354/medium.jpeg?1608711298",
    "latitude": 45.723095165,
    "longitude": 9.7309168428,
    "species_guess": "Deodar cedar",
    "scientific_name": "Cedrus deodara",
    "common_name": "Cedro dell'Himalaya",
-   "field_villads": null
+   "field_villads": 16
  },
  {
    "id": 66954862,
    "url": "https://www.inaturalist.org/observations/66954862",
-   "image_url": "https://static.inaturalist.org/photos/108058420/medium.jpeg?1608711458",
    "latitude": 45.723009263,
    "longitude": 9.7310985625,
    "species_guess": "Gelso bianco",
    "scientific_name": "Morus alba",
    "common_name": "Gelso bianco",
-   "field_villads": null
+   "field_villads": 16
  },
  {
    "id": 66954916,
    "url": "https://www.inaturalist.org/observations/66954916",
-   "image_url": "https://static.inaturalist.org/photos/108058536/medium.jpeg?1608711700",
    "latitude": 45.722966429,
    "longitude": 9.7300551832,
    "species_guess": "cipresso mediterraneo",
    "scientific_name": "Cupressus sempervirens",
    "common_name": "cipresso mediterraneo",
-   "field_villads": null
+   "field_villads": 15
  },
  {
    "id": 66962638,
    "url": "https://www.inaturalist.org/observations/66962638",
-   "image_url": "https://static.inaturalist.org/photos/108073149/medium.jpeg?1608733846",
    "latitude": 45.7222253718,
    "longitude": 9.7289360315,
    "species_guess": "farnia",
    "scientific_name": "Quercus robur",
    "common_name": "farnia",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 66962705,
    "url": "https://www.inaturalist.org/observations/66962705",
-   "image_url": "https://static.inaturalist.org/photos/108073299/medium.jpeg?1608734024",
    "latitude": 45.7223185312,
    "longitude": 9.7290889174,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 67126829,
    "url": "https://www.inaturalist.org/observations/67126829",
-   "image_url": "https://static.inaturalist.org/photos/108376431/medium.jpeg?1609055642",
    "latitude": 45.7262652545,
    "longitude": 9.7292495146,
    "species_guess": "Faggio",
    "scientific_name": "Fagus sylvatica",
    "common_name": "Faggio",
-   "field_villads": null
+   "field_villads": 21
  },
  {
    "id": 67126870,
    "url": "https://www.inaturalist.org/observations/67126870",
-   "image_url": "https://static.inaturalist.org/photos/108376503/medium.jpeg?1609055768",
    "latitude": 45.7258095535,
    "longitude": 9.7288381308,
    "species_guess": "farnia",
    "scientific_name": "Quercus robur",
    "common_name": "farnia",
-   "field_villads": null
+   "field_villads": 21
  },
  {
    "id": 67609419,
    "url": "https://www.inaturalist.org/observations/67609419",
-   "image_url": "https://static.inaturalist.org/photos/109276386/medium.jpeg?1609833085",
    "latitude": 45.727830572,
    "longitude": 9.7329663858,
    "species_guess": "Oriental thuja",
    "scientific_name": "Platycladus orientalis",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67655580,
    "url": "https://www.inaturalist.org/observations/67655580",
-   "image_url": "https://static.inaturalist.org/photos/109362690/medium.jpeg?1609918171",
    "latitude": 45.73013868,
    "longitude": 9.7361588851,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67655755,
    "url": "https://www.inaturalist.org/observations/67655755",
-   "image_url": "https://static.inaturalist.org/photos/109362918/medium.jpeg?1609918548",
    "latitude": 45.7293672929,
    "longitude": 9.7346913815,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67655788,
    "url": "https://www.inaturalist.org/observations/67655788",
-   "image_url": "https://static.inaturalist.org/photos/109362990/medium.jpeg?1609918705",
    "latitude": 45.7287889797,
    "longitude": 9.7338448092,
    "species_guess": "Lauroceraso",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67655810,
    "url": "https://www.inaturalist.org/observations/67655810",
-   "image_url": "https://static.inaturalist.org/photos/109363053/medium.jpeg?1609918802",
    "latitude": 45.7286483206,
    "longitude": 9.7336657718,
    "species_guess": "Acero campestre",
    "scientific_name": "Acer campestre",
    "common_name": "Acero campestre",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67655885,
    "url": "https://www.inaturalist.org/observations/67655885",
-   "image_url": "https://static.inaturalist.org/photos/109363208/medium.jpeg?1609919000",
    "latitude": 45.7281275748,
    "longitude": 9.7330994904,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67656063,
    "url": "https://www.inaturalist.org/observations/67656063",
-   "image_url": "https://static.inaturalist.org/photos/109363581/medium.jpeg?1609919660",
    "latitude": 45.7251570075,
    "longitude": 9.7288304195,
    "species_guess": "Robinia",
    "scientific_name": "Robinia pseudoacacia",
    "common_name": "Robinia",
-   "field_villads": null
+   "field_villads": 22
  },
  {
    "id": 67656179,
    "url": "https://www.inaturalist.org/observations/67656179",
-   "image_url": "https://static.inaturalist.org/photos/109363759/medium.jpeg?1609920012",
    "latitude": 45.7226892944,
    "longitude": 9.7281602025,
    "species_guess": "farnia",
    "scientific_name": "Quercus robur",
    "common_name": "farnia",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 67740316,
    "url": "https://www.inaturalist.org/observations/67740316",
-   "image_url": "https://static.inaturalist.org/photos/109524718/medium.jpeg?1610091501",
    "latitude": 45.729574651,
    "longitude": 9.7354219481,
    "species_guess": "Olmo campestre",
    "scientific_name": "Ulmus minor",
    "common_name": "Olmo campestre",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67740335,
    "url": "https://www.inaturalist.org/observations/67740335",
-   "image_url": "https://static.inaturalist.org/photos/109524777/medium.jpeg?1610091571",
    "latitude": 45.7294716742,
    "longitude": 9.7356509417,
    "species_guess": "Nocciolo",
    "scientific_name": "Corylus avellana",
    "common_name": "Nocciolo",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67740401,
    "url": "https://www.inaturalist.org/observations/67740401",
-   "image_url": "https://static.inaturalist.org/photos/109524960/medium.jpeg?1610091829",
    "latitude": 45.7296713087,
    "longitude": 9.7352861613,
    "species_guess": "Acero americano",
    "scientific_name": "Acer negundo",
    "common_name": "Acero americano",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67740435,
    "url": "https://www.inaturalist.org/observations/67740435",
-   "image_url": "https://static.inaturalist.org/photos/109525017/medium.jpeg?1610091940",
    "latitude": 45.7289174682,
    "longitude": 9.7344513237,
    "species_guess": "",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67740445,
    "url": "https://www.inaturalist.org/observations/67740445",
-   "image_url": "https://static.inaturalist.org/photos/109525032/medium.jpeg?1610091972",
    "latitude": 45.7289579573,
    "longitude": 9.7343819216,
    "species_guess": "Pinus wallichiana",
    "scientific_name": "Pinus wallichiana",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67740485,
    "url": "https://www.inaturalist.org/observations/67740485",
-   "image_url": "https://static.inaturalist.org/photos/109525144/medium.jpeg?1610092145",
    "latitude": 45.7282155754,
    "longitude": 9.7333378717,
    "species_guess": "Frassino maggiore",
    "scientific_name": "Fraxinus excelsior",
    "common_name": "Frassino maggiore",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67842360,
    "url": "https://www.inaturalist.org/observations/67842360",
-   "image_url": "https://static.inaturalist.org/photos/109714637/medium.jpeg?1610264599",
    "latitude": 45.7283871292,
    "longitude": 9.7337841243,
    "species_guess": "Nocciolo",
    "scientific_name": "Corylus avellana",
    "common_name": "Nocciolo",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67842418,
    "url": "https://www.inaturalist.org/observations/67842418",
-   "image_url": "https://static.inaturalist.org/photos/109714724/medium.jpeg?1610264737",
    "latitude": 45.7280025951,
    "longitude": 9.7333388776,
    "species_guess": "Carpino nero",
    "scientific_name": "Ostrya carpinifolia",
    "common_name": "Carpino nero",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67842661,
    "url": "https://www.inaturalist.org/observations/67842661",
-   "image_url": "https://static.inaturalist.org/photos/109715159/medium.jpeg?1610265393",
    "latitude": 45.7246292074,
    "longitude": 9.7282644734,
    "species_guess": "Salix matsudana tortuosa",
    "scientific_name": "Salix babylonica tortuosa",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 22
  },
  {
    "id": 67910276,
    "url": "https://www.inaturalist.org/observations/67910276",
-   "image_url": "https://static.inaturalist.org/photos/109842004/medium.jpeg?1610379887",
    "latitude": 45.7260400961,
    "longitude": 9.7394506261,
    "species_guess": "Lauroceraso",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67910290,
    "url": "https://www.inaturalist.org/observations/67910290",
-   "image_url": "https://static.inaturalist.org/photos/109842023/medium.jpeg?1610379899",
    "latitude": 45.726703398,
    "longitude": 9.7400128841,
    "species_guess": "Acero americano",
    "scientific_name": "Acer negundo",
    "common_name": "Acero americano",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67910307,
    "url": "https://www.inaturalist.org/observations/67910307",
-   "image_url": "https://static.inaturalist.org/photos/109842037/medium.jpeg?1610379910",
    "latitude": 45.7266570561,
    "longitude": 9.7407115996,
    "species_guess": "prunus laurocerasus",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67910313,
    "url": "https://www.inaturalist.org/observations/67910313",
-   "image_url": "https://static.inaturalist.org/photos/109842052/medium.jpeg?1610379921",
    "latitude": 45.7266074374,
    "longitude": 9.7408856079,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67910329,
    "url": "https://www.inaturalist.org/observations/67910329",
-   "image_url": "https://static.inaturalist.org/photos/109842082/medium.jpeg?1610379944",
    "latitude": 45.7266715672,
    "longitude": 9.7407856956,
    "species_guess": "Acero montano",
    "scientific_name": "Acer pseudoplatanus",
    "common_name": "Acero montano",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67910337,
    "url": "https://www.inaturalist.org/observations/67910337",
-   "image_url": "https://static.inaturalist.org/photos/109842118/medium.jpeg?1610379964",
    "latitude": 45.7266933339,
    "longitude": 9.7405962646,
    "species_guess": "Prunus sp.",
    "scientific_name": "Prunus",
    "common_name": "Pruni",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67948898,
    "url": "https://www.inaturalist.org/observations/67948898",
-   "image_url": "https://static.inaturalist.org/photos/109912799/medium.jpeg?1610436928",
    "latitude": 45.7267045683,
    "longitude": 9.7402854636,
    "species_guess": "ciliegio",
    "scientific_name": "Prunus avium",
    "common_name": "ciliegio",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67948974,
    "url": "https://www.inaturalist.org/observations/67948974",
-   "image_url": "https://static.inaturalist.org/photos/109912945/medium.jpeg?1610437164",
    "latitude": 45.7266458217,
    "longitude": 9.7403481603,
    "species_guess": "Acer saccharinum",
    "scientific_name": "Acer saccharinum",
    "common_name": "Acero saccarino",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67949028,
    "url": "https://www.inaturalist.org/observations/67949028",
-   "image_url": "https://static.inaturalist.org/photos/109913060/medium.jpeg?1610437329",
    "latitude": 45.7266767163,
    "longitude": 9.7405976057,
    "species_guess": "Frassino maggiore",
    "scientific_name": "Fraxinus excelsior",
    "common_name": "Frassino maggiore",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 67958770,
    "url": "https://www.inaturalist.org/observations/67958770",
-   "image_url": "https://static.inaturalist.org/photos/109931869/medium.jpeg?1610463163",
    "latitude": 45.7190328152,
    "longitude": 9.7317261994,
    "species_guess": "Tilia americana",
    "scientific_name": "Tilia americana",
    "common_name": "Tiglio americano",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67958791,
    "url": "https://www.inaturalist.org/observations/67958791",
-   "image_url": "https://static.inaturalist.org/photos/109931944/medium.jpeg?1610463245",
    "latitude": 45.7186580483,
    "longitude": 9.731683284,
    "species_guess": "Magnolia",
    "scientific_name": "Magnolia grandiflora",
    "common_name": "Magnolia",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67958855,
    "url": "https://www.inaturalist.org/observations/67958855",
-   "image_url": "https://static.inaturalist.org/photos/109932128/medium.jpeg?1610463444",
    "latitude": 45.7184789739,
    "longitude": 9.7319853678,
    "species_guess": "Pino mugo",
    "scientific_name": "Pinus mugo",
    "common_name": "Pino mugo",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67958888,
    "url": "https://www.inaturalist.org/observations/67958888",
-   "image_url": "https://static.inaturalist.org/photos/109932184/medium.jpeg?1610463487",
    "latitude": 45.7182413775,
    "longitude": 9.7317369282,
    "species_guess": "Acero palmato",
    "scientific_name": "Acer palmatum",
    "common_name": "Acero palmato",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67958916,
    "url": "https://www.inaturalist.org/observations/67958916",
-   "image_url": "https://static.inaturalist.org/photos/109932237/medium.jpeg?1610463561",
    "latitude": 45.7184291138,
    "longitude": 9.7317982838,
    "species_guess": "Ippocastano",
    "scientific_name": "Aesculus hippocastanum",
    "common_name": "Ippocastano",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67959078,
    "url": "https://www.inaturalist.org/observations/67959078",
-   "image_url": "https://static.inaturalist.org/photos/109932526/medium.jpeg?1610463859",
    "latitude": 45.717873862,
    "longitude": 9.7317838669,
    "species_guess": "silver birch",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67959114,
    "url": "https://www.inaturalist.org/observations/67959114",
-   "image_url": "https://static.inaturalist.org/photos/109932626/medium.jpeg?1610463930",
    "latitude": 45.7178921208,
    "longitude": 9.7312024981,
    "species_guess": "Lauroceraso",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67959363,
    "url": "https://www.inaturalist.org/observations/67959363",
-   "image_url": "https://static.inaturalist.org/photos/109932914/medium.jpeg?1610464320",
    "latitude": 45.7187912418,
    "longitude": 9.7321020439,
    "species_guess": "Pioppo nero",
    "scientific_name": "Populus nigra",
    "common_name": "Pioppo nero",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67959417,
    "url": "https://www.inaturalist.org/observations/67959417",
-   "image_url": "https://static.inaturalist.org/photos/109932972/medium.jpeg?1610464399",
    "latitude": 45.7189499501,
    "longitude": 9.7321332246,
    "species_guess": "Tilia americana",
    "scientific_name": "Tilia americana",
    "common_name": "Tiglio americano",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67959433,
    "url": "https://www.inaturalist.org/observations/67959433",
-   "image_url": "https://static.inaturalist.org/photos/109933025/medium.jpeg?1610464449",
    "latitude": 45.7190433489,
    "longitude": 9.7321744636,
    "species_guess": "agrifoglio",
    "scientific_name": "Ilex aquifolium",
    "common_name": "agrifoglio",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67959595,
    "url": "https://www.inaturalist.org/observations/67959595",
-   "image_url": "https://static.inaturalist.org/photos/109933506/medium.jpeg?1610464830",
    "latitude": 45.7186557075,
    "longitude": 9.7325918823,
    "species_guess": "ginepro",
    "scientific_name": "Juniperus",
    "common_name": "ginepro",
-   "field_villads": null
+   "field_villads": 19
  },
  {
    "id": 67959810,
    "url": "https://www.inaturalist.org/observations/67959810",
-   "image_url": "https://static.inaturalist.org/photos/109933724/medium.jpeg?1610465064",
    "latitude": 45.7182540182,
    "longitude": 9.7321315482,
    "species_guess": "Osmanthus",
    "scientific_name": "Osmanthus",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67959979,
    "url": "https://www.inaturalist.org/observations/67959979",
-   "image_url": "https://static.inaturalist.org/photos/109933865/medium.jpeg?1610465235",
    "latitude": 45.7179768602,
    "longitude": 9.7323830053,
    "species_guess": "Storace americano",
    "scientific_name": "Liquidambar styraciflua",
    "common_name": "Storace americano",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67960027,
    "url": "https://www.inaturalist.org/observations/67960027",
-   "image_url": "https://static.inaturalist.org/photos/109933953/medium.jpeg?1610465363",
    "latitude": 45.7178652008,
    "longitude": 9.7323551774,
    "species_guess": "Ginco",
    "scientific_name": "Ginkgo biloba",
    "common_name": "Ginco",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67960057,
    "url": "https://www.inaturalist.org/observations/67960057",
-   "image_url": "https://static.inaturalist.org/photos/109934031/medium.jpeg?1610465457",
    "latitude": 45.7178682439,
    "longitude": 9.731916301,
    "species_guess": "Magnolia",
    "scientific_name": "Magnolia grandiflora",
    "common_name": "Magnolia",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67960082,
    "url": "https://www.inaturalist.org/observations/67960082",
-   "image_url": "https://static.inaturalist.org/photos/109934090/medium.jpeg?1610465543",
    "latitude": 45.7179452585,
    "longitude": 9.7319451347,
    "species_guess": "Frassino maggiore",
    "scientific_name": "Fraxinus excelsior",
    "common_name": "Frassino maggiore",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67960098,
    "url": "https://www.inaturalist.org/observations/67960098",
-   "image_url": "https://static.inaturalist.org/photos/109934139/medium.jpeg?1610465609",
    "latitude": 45.7178881413,
    "longitude": 9.7321389243,
    "species_guess": "Quercia rossa",
    "scientific_name": "Quercus rubra",
    "common_name": "Quercia rossa",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67998206,
    "url": "https://www.inaturalist.org/observations/67998206",
-   "image_url": "https://static.inaturalist.org/photos/110004280/medium.jpeg?1610532943",
    "latitude": 45.7176943169,
    "longitude": 9.7319592163,
    "species_guess": "Olmo campestre",
    "scientific_name": "Ulmus minor",
    "common_name": "Olmo campestre",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67998248,
    "url": "https://www.inaturalist.org/observations/67998248",
-   "image_url": "https://static.inaturalist.org/photos/110004371/medium.jpeg?1610533041",
    "latitude": 45.7175894454,
    "longitude": 9.7318723798,
    "species_guess": "cipresso mediterraneo",
    "scientific_name": "Cupressus sempervirens",
    "common_name": "cipresso mediterraneo",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67998390,
    "url": "https://www.inaturalist.org/observations/67998390",
-   "image_url": "https://static.inaturalist.org/photos/110004514/medium.jpeg?1610533210",
    "latitude": 45.7177317709,
    "longitude": 9.7318764031,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67998616,
    "url": "https://www.inaturalist.org/observations/67998616",
-   "image_url": "https://static.inaturalist.org/photos/110004719/medium.jpeg?1610533504",
    "latitude": 45.717737389,
    "longitude": 9.7315018997,
    "species_guess": "Pruni",
    "scientific_name": "Prunus",
    "common_name": "Pruni",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 67998663,
    "url": "https://www.inaturalist.org/observations/67998663",
-   "image_url": "https://static.inaturalist.org/photos/110004802/medium.jpeg?1610533598",
    "latitude": 45.7176252609,
    "longitude": 9.7315324098,
    "species_guess": "Acero palmato",
    "scientific_name": "Acer palmatum",
    "common_name": "Acero palmato",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 68010302,
    "url": "https://www.inaturalist.org/observations/68010302",
-   "image_url": "https://static.inaturalist.org/photos/110025763/medium.jpeg?1610558390",
    "latitude": 45.7191620285,
    "longitude": 9.732179828,
    "species_guess": "Lauroceraso",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field_villads": null
+   "field_villads": 18
  },
  {
    "id": 68010373,
    "url": "https://www.inaturalist.org/observations/68010373",
-   "image_url": "https://static.inaturalist.org/photos/110025834/medium.jpeg?1610558455",
    "latitude": 45.719177712,
    "longitude": 9.7321043909,
    "species_guess": "agrifoglio",
    "scientific_name": "Ilex aquifolium",
    "common_name": "agrifoglio",
-   "field_villads": null
+   "field_villads": 18
  },
  {
    "id": 68010471,
    "url": "https://www.inaturalist.org/observations/68010471",
-   "image_url": "https://static.inaturalist.org/photos/110026006/medium.jpeg?1610558613",
    "latitude": 45.7179630491,
    "longitude": 9.7367851809,
    "species_guess": "Lauroceraso",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field_villads": null
+   "field_villads": 8
  },
  {
    "id": 68010625,
    "url": "https://www.inaturalist.org/observations/68010625",
-   "image_url": "https://static.inaturalist.org/photos/110026170/medium.jpeg?1610558774",
    "latitude": 45.725986498,
    "longitude": 9.7352831438,
    "species_guess": "Prunus cerasifera pissardii",
    "scientific_name": "Prunus cerasifera pissardii",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 68010731,
    "url": "https://www.inaturalist.org/observations/68010731",
-   "image_url": "https://static.inaturalist.org/photos/110026394/medium.jpeg?1610558967",
    "latitude": 45.7265189663,
    "longitude": 9.7352818027,
    "species_guess": "ginepro",
    "scientific_name": "Juniperus",
    "common_name": "ginepro",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 68010941,
    "url": "https://www.inaturalist.org/observations/68010941",
-   "image_url": "https://static.inaturalist.org/photos/110026590/medium.jpeg?1610559103",
    "latitude": 45.7272496683,
    "longitude": 9.736007005,
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 68010973,
    "url": "https://www.inaturalist.org/observations/68010973",
-   "image_url": "https://static.inaturalist.org/photos/110026710/medium.jpeg?1610559195",
    "latitude": 45.7271057287,
    "longitude": 9.7356361896,
    "species_guess": "Nocciolo",
    "scientific_name": "Corylus avellana",
    "common_name": "Nocciolo",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 68095430,
    "url": "https://www.inaturalist.org/observations/68095430",
-   "image_url": "https://static.inaturalist.org/photos/110177321/medium.jpeg?1610697037",
    "latitude": 45.7301878274,
    "longitude": 9.7365246713,
    "species_guess": "Alloro",
    "scientific_name": "Laurus nobilis",
    "common_name": "Alloro",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 68322072,
    "url": "https://www.inaturalist.org/observations/68322072",
-   "image_url": "https://static.inaturalist.org/photos/110598664/medium.jpeg?1611053616",
    "latitude": 45.7181229301,
    "longitude": 9.7324678302,
    "species_guess": "Alloro",
    "scientific_name": "Laurus nobilis",
    "common_name": "Alloro",
-   "field_villads": null
+   "field_villads": 20
  },
  {
    "id": 68322102,
    "url": "https://www.inaturalist.org/observations/68322102",
-   "image_url": "https://static.inaturalist.org/photos/110598750/medium.jpeg?1611053715",
    "latitude": 45.7230717585,
    "longitude": 9.7305631265,
    "species_guess": "Nocciolo",
    "scientific_name": "Corylus avellana",
    "common_name": "Nocciolo",
-   "field_villads": null
+   "field_villads": 16
  },
  {
    "id": 68322149,
    "url": "https://www.inaturalist.org/observations/68322149",
-   "image_url": "https://static.inaturalist.org/photos/110598876/medium.jpeg?1611053886",
    "latitude": 45.7228449487,
    "longitude": 9.7310657054,
    "species_guess": "Faggio",
    "scientific_name": "Fagus sylvatica",
    "common_name": "Faggio",
-   "field_villads": null
+   "field_villads": 16
  },
  {
    "id": 68322233,
    "url": "https://www.inaturalist.org/observations/68322233",
-   "image_url": "https://static.inaturalist.org/photos/110599054/medium.jpeg?1611054101",
    "latitude": 45.7233591899,
    "longitude": 9.7304836661,
    "species_guess": "Osmanthus",
    "scientific_name": "Osmanthus",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 15
  },
  {
    "id": 68322271,
    "url": "https://www.inaturalist.org/observations/68322271",
-   "image_url": "https://static.inaturalist.org/photos/110599095/medium.jpeg?1611054176",
    "latitude": 45.7228589927,
    "longitude": 9.7315307334,
    "species_guess": "Ippocastano",
    "scientific_name": "Aesculus hippocastanum",
    "common_name": "Ippocastano",
-   "field_villads": null
+   "field_villads": 16
  },
  {
    "id": 68359637,
    "url": "https://www.inaturalist.org/observations/68359637",
-   "image_url": "https://static.inaturalist.org/photos/110667984/medium.jpeg?1611128862",
    "latitude": 45.7235354399,
    "longitude": 9.7315464914,
    "species_guess": "Fraxinus angustifolia",
    "scientific_name": "Fraxinus angustifolia",
    "common_name": "frassino a foglie strette",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 68359704,
    "url": "https://www.inaturalist.org/observations/68359704",
-   "image_url": "https://static.inaturalist.org/photos/110668198/medium.jpeg?1611129212",
    "latitude": 45.7234266004,
    "longitude": 9.7304846719,
    "species_guess": "Osmanthus",
    "scientific_name": "Osmanthus",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 15
  },
  {
    "id": 68373039,
    "url": "https://www.inaturalist.org/observations/68373039",
-   "image_url": "https://static.inaturalist.org/photos/110694292/medium.jpeg?1611164977",
    "latitude": 45.7225881774,
    "longitude": 9.7279124334,
    "species_guess": "acero riccio",
    "scientific_name": "Acer platanoides",
    "common_name": "acero riccio",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 68407664,
    "url": "https://www.inaturalist.org/observations/68407664",
-   "image_url": "https://static.inaturalist.org/photos/110760319/medium.jpeg?1611238208",
    "latitude": 45.7224168398,
    "longitude": 9.7338743135,
    "species_guess": "ginepro",
@@ -2488,121 +2262,131 @@ var data = `[
  {
    "id": 72442735,
    "url": "https://www.inaturalist.org/observations/72442735",
-   "image_url": "https://static.inaturalist.org/photos/118112429/medium.jpeg?1617113413",
    "latitude": 45.7222651635,
    "longitude": 9.7293319926,
    "species_guess": "Cherry laurel",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field_villads": null
+   "field_villads": 17
  },
  {
    "id": 73194283,
    "url": "https://www.inaturalist.org/observations/73194283",
-   "image_url": "https://static.inaturalist.org/photos/119470794/medium.jpeg?1617801282",
    "latitude": 45.7224720799,
    "longitude": 9.7282208875,
    "species_guess": "Tatarian Maple",
    "scientific_name": "Acer tataricum",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 75648003,
    "url": "https://www.inaturalist.org/observations/75648003",
-   "image_url": "https://static.inaturalist.org/photos/123789194/medium.jpeg?1619700549",
    "latitude": 45.7286902141,
    "longitude": 9.7346907109,
    "species_guess": "Chinese arborvitae",
    "scientific_name": "Platycladus orientalis",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 75759545,
    "url": "https://www.inaturalist.org/observations/75759545",
-   "image_url": "https://static.inaturalist.org/photos/123978655/medium.jpeg?1619766978",
    "latitude": 45.7227499177,
    "longitude": 9.7290724888,
    "species_guess": "Albero di Giuda",
    "scientific_name": "Cercis siliquastrum",
    "common_name": "Albero di Giuda",
-   "field_villads": null
+   "field_villads": 14
  },
  {
    "id": 76939375,
    "url": "https://www.inaturalist.org/observations/76939375",
-   "image_url": "https://static.inaturalist.org/photos/125829386/medium.jpeg?1620050506",
    "latitude": 45.7310703684,
    "longitude": 9.7380424663,
    "species_guess": "Gelso",
    "scientific_name": "Morus nigra",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 78801308,
    "url": "https://www.inaturalist.org/observations/78801308",
-   "image_url": "https://static.inaturalist.org/photos/129008919/medium.jpeg?1621061031",
    "latitude": 45.7175316256,
    "longitude": 9.7285970673,
    "species_guess": "ginepro",
    "scientific_name": "Juniperus",
    "common_name": "ginepro",
-   "field_villads": null
+   "field_villads": 12
  },
  {
    "id": 81992846,
    "url": "https://www.inaturalist.org/observations/81992846",
-   "image_url": "https://static.inaturalist.org/photos/134532160/medium.jpeg?1623052268",
    "latitude": 45.7311684276,
    "longitude": 9.7379452363,
    "species_guess": "Gelso",
    "scientific_name": "Morus nigra",
    "common_name": "",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 87273865,
    "url": "https://www.inaturalist.org/observations/87273865",
-   "image_url": "",
    "latitude": 45.7285956612,
    "longitude": 9.7339678556,
    "species_guess": "Albicocco",
    "scientific_name": "Prunus armeniaca",
    "common_name": "Albicocco",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 87275068,
    "url": "https://www.inaturalist.org/observations/87275068",
-   "image_url": "",
    "latitude": 45.7293574633,
    "longitude": 9.7352278233,
    "species_guess": "Prugnolo",
    "scientific_name": "Prunus spinosa",
    "common_name": "Prugnolo",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 87275074,
    "url": "https://www.inaturalist.org/observations/87275074",
-   "image_url": "",
    "latitude": 45.7284798102,
    "longitude": 9.7338163108,
    "species_guess": "Fico",
    "scientific_name": "Ficus carica",
    "common_name": "Fico",
-   "field_villads": null
+   "field_villads": 100
  },
  {
    "id": 87275195,
    "url": "https://www.inaturalist.org/observations/87275195",
-   "image_url": "",
    "latitude": 45.7299591743,
    "longitude": 9.7366993502,
    "species_guess": "Pruno europeo",
    "scientific_name": "Prunus domestica",
    "common_name": "Pruno europeo",
-   "field_villads": null
- }]`;
+   "field_villads": 100
+ },
+ {
+   "id": 87508170,
+   "url": "https://www.inaturalist.org/observations/87508170",
+   "latitude": 45.7211708816,
+   "longitude": 9.7353458405,
+   "species_guess": "Tiglio americano",
+   "scientific_name": "Tilia americana",
+   "common_name": "Tiglio americano",
+   "field_villads": 100
+ },
+ {
+   "id": 87508640,
+   "url": "https://www.inaturalist.org/observations/87508640",
+   "latitude": 45.7218206653,
+   "longitude": 9.7352455929,
+   "species_guess": "Cedro dell'Himalaya",
+   "scientific_name": "Cedrus deodara",
+   "common_name": "Cedro dell'Himalaya",
+   "field_villads": 100
+ }
+]`;

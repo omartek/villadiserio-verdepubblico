@@ -32,7 +32,7 @@ function cambia_stazione(num) {
 	document.getElementById("tabella").innerHTML = "";
 
 	// creazione delle variabili e della tabella vuota
-	var table = document.createElement("table"), row, cellA, cellB;
+	var table = document.createElement("table"), row, cellA, cellB, testo_link;
 	document.getElementById("tabella").appendChild(table);
 
 	// creazione header della tabella con numero stazione selezionata
@@ -54,10 +54,11 @@ function cambia_stazione(num) {
 			cellA = document.createElement("td");
 			cellB = document.createElement("td");
 		
+			testo_link="<a target=_blank href=\""+mydata[key].url+"\">"+mydata[key].scientific_name+"<\a>";
 			// inserimento valori nelle celle
-			cellA.innerHTML = mydata[key].scientific_name;
+			cellA.innerHTML = testo_link;
 			cellB.innerHTML = mydata[key].species_guess;
-		
+			
 			// aggiunta di riga e dati alla tabella
 			table.appendChild(row);
 			row.appendChild(cellA);
