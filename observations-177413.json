@@ -9,7 +9,7 @@ var data = `
    "species_guess": "Prunus cerasifera pissardii",
    "scientific_name": "Prunus cerasifera pissardii",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 40143700,
@@ -20,7 +20,7 @@ var data = `
    "species_guess": "oleandro",
    "scientific_name": "Nerium oleander",
    "common_name": "oleandro",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 40356842,
@@ -31,7 +31,7 @@ var data = `
    "species_guess": "Spiraea japonica",
    "scientific_name": "Spiraea japonica",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 40356860,
@@ -42,7 +42,7 @@ var data = `
    "species_guess": "Carpino Bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 40356866,
@@ -53,7 +53,7 @@ var data = `
    "species_guess": "Magnolia stellata",
    "scientific_name": "Magnolia stellata",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 40586773,
@@ -64,7 +64,7 @@ var data = `
    "species_guess": "calocedro",
    "scientific_name": "Calocedrus decurrens",
    "common_name": "Cedro della California",
-   "field:villads": 22
+   "field_villads": 22
  },
  {
    "id": 40638977,
@@ -75,7 +75,7 @@ var data = `
    "species_guess": "Betulla",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 41103239,
@@ -86,7 +86,7 @@ var data = `
    "species_guess": "Bambù sacro",
    "scientific_name": "Nandina domestica",
    "common_name": "Bambù sacro",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 41838286,
@@ -97,7 +97,7 @@ var data = `
    "species_guess": "Betulla",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 44158048,
@@ -108,7 +108,7 @@ var data = `
    "species_guess": "dawn redwood",
    "scientific_name": "Metasequoia glyptostroboides",
    "common_name": "",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 45604069,
@@ -119,7 +119,7 @@ var data = `
    "species_guess": "Pittosporo",
    "scientific_name": "Pittosporum tobira",
    "common_name": "Pittosporo",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 45757604,
@@ -130,7 +130,7 @@ var data = `
    "species_guess": "Japanese Spiraea",
    "scientific_name": "Spiraea japonica",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 45757633,
@@ -141,7 +141,7 @@ var data = `
    "species_guess": "Tiglio selvatico",
    "scientific_name": "Tilia cordata",
    "common_name": "Tiglio selvatico",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 45757682,
@@ -152,7 +152,7 @@ var data = `
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 46388521,
@@ -163,7 +163,7 @@ var data = `
    "species_guess": "Gelso",
    "scientific_name": "Morus nigra",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 47480669,
@@ -174,7 +174,7 @@ var data = `
    "species_guess": "Platano comune",
    "scientific_name": "Platanus × hispanica",
    "common_name": "Platano comune",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 48753781,
@@ -185,7 +185,7 @@ var data = `
    "species_guess": "Marusticano",
    "scientific_name": "Prunus cerasifera",
    "common_name": "Marusticano",
-   "field:villads": 2
+   "field_villads": 2
  },
  {
    "id": 48775389,
@@ -196,7 +196,7 @@ var data = `
    "species_guess": "Catalpa",
    "scientific_name": "Catalpa bignonioides",
    "common_name": "",
-   "field:villads": 8
+   "field_villads": 8
  },
  {
    "id": 49544613,
@@ -207,7 +207,7 @@ var data = `
    "species_guess": "Tiglio selvatico",
    "scientific_name": "Tilia cordata",
    "common_name": "Tiglio selvatico",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 50125067,
@@ -218,7 +218,7 @@ var data = `
    "species_guess": "Lavender-cotton",
    "scientific_name": "Santolina chamaecyparissus",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 58150899,
@@ -229,7 +229,7 @@ var data = `
    "species_guess": "rugosa rose",
    "scientific_name": "Rosa rugosa",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 58508162,
@@ -240,7 +240,7 @@ var data = `
    "species_guess": "Narrow-leaved Ash",
    "scientific_name": "Fraxinus angustifolia",
    "common_name": "frassino a foglie strette",
-   "field:villads": 16
+   "field_villads": 16
  },
  {
    "id": 58609061,
@@ -251,7 +251,7 @@ var data = `
    "species_guess": "California incense-cedar",
    "scientific_name": "Calocedrus decurrens",
    "common_name": "Cedro della California",
-   "field:villads": 22
+   "field_villads": 22
  },
  {
    "id": 58818607,
@@ -262,7 +262,7 @@ var data = `
    "species_guess": "Mexican cypress",
    "scientific_name": "Cupressus lusitanica",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 58819276,
@@ -273,7 +273,7 @@ var data = `
    "species_guess": "Tiglio selvatico",
    "scientific_name": "Tilia cordata",
    "common_name": "Tiglio selvatico",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 59418689,
@@ -284,7 +284,7 @@ var data = `
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 59975683,
@@ -295,7 +295,7 @@ var data = `
    "species_guess": "silver maple",
    "scientific_name": "Acer saccharinum",
    "common_name": "Acero saccarino",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 60294967,
@@ -306,7 +306,7 @@ var data = `
    "species_guess": "farnia",
    "scientific_name": "Quercus robur",
    "common_name": "farnia",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 60801976,
@@ -317,7 +317,7 @@ var data = `
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field:villads": 7
+   "field_villads": 7
  },
  {
    "id": 60802445,
@@ -328,7 +328,7 @@ var data = `
    "species_guess": "Pioppo nero",
    "scientific_name": "Populus nigra",
    "common_name": "Pioppo nero",
-   "field:villads": 7
+   "field_villads": 7
  },
  {
    "id": 60802485,
@@ -339,7 +339,7 @@ var data = `
    "species_guess": "Alloro",
    "scientific_name": "Laurus nobilis",
    "common_name": "Alloro",
-   "field:villads": 7
+   "field_villads": 7
  },
  {
    "id": 60930997,
@@ -350,7 +350,7 @@ var data = `
    "species_guess": "Atlas cedar",
    "scientific_name": "Cedrus atlantica",
    "common_name": "Cedro dell'Atlante",
-   "field:villads": 1
+   "field_villads": 1
  },
  {
    "id": 60931725,
@@ -361,7 +361,7 @@ var data = `
    "species_guess": "Cerro",
    "scientific_name": "Quercus cerris",
    "common_name": "Cerro",
-   "field:villads": 5
+   "field_villads": 5
  },
  {
    "id": 60959855,
@@ -372,7 +372,7 @@ var data = `
    "species_guess": "Agazzino",
    "scientific_name": "Pyracantha coccinea",
    "common_name": "Agazzino",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 60960028,
@@ -383,7 +383,7 @@ var data = `
    "species_guess": "Lauroceraso",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field:villads": 11
+   "field_villads": 11
  },
  {
    "id": 60960696,
@@ -394,7 +394,7 @@ var data = `
    "species_guess": "Quercia rossa",
    "scientific_name": "Quercus rubra",
    "common_name": "Quercia rossa",
-   "field:villads": 11
+   "field_villads": 11
  },
  {
    "id": 60961027,
@@ -405,7 +405,7 @@ var data = `
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field:villads": 11
+   "field_villads": 11
  },
  {
    "id": 60961402,
@@ -416,7 +416,7 @@ var data = `
    "species_guess": "acero riccio",
    "scientific_name": "Acer platanoides",
    "common_name": "acero riccio",
-   "field:villads": 11
+   "field_villads": 11
  },
  {
    "id": 61075392,
@@ -427,7 +427,7 @@ var data = `
    "species_guess": "Tilia americana",
    "scientific_name": "Tilia americana",
    "common_name": "Tiglio americano",
-   "field:villads": 2
+   "field_villads": 2
  },
  {
    "id": 61188421,
@@ -438,7 +438,7 @@ var data = `
    "species_guess": "rugosa rose",
    "scientific_name": "Rosa rugosa",
    "common_name": "",
-   "field:villads": 2
+   "field_villads": 2
  },
  {
    "id": 61188440,
@@ -449,7 +449,7 @@ var data = `
    "species_guess": "cipresso mediterraneo",
    "scientific_name": "Cupressus sempervirens",
    "common_name": "cipresso mediterraneo",
-   "field:villads": 2
+   "field_villads": 2
  },
  {
    "id": 61188486,
@@ -460,7 +460,7 @@ var data = `
    "species_guess": "European beech",
    "scientific_name": "Fagus sylvatica",
    "common_name": "Faggio",
-   "field:villads": 2
+   "field_villads": 2
  },
  {
    "id": 61188549,
@@ -471,7 +471,7 @@ var data = `
    "species_guess": "Faggio",
    "scientific_name": "Fagus sylvatica",
    "common_name": "Faggio",
-   "field:villads": 2
+   "field_villads": 2
  },
  {
    "id": 61188579,
@@ -482,7 +482,7 @@ var data = `
    "species_guess": "Bosso comune",
    "scientific_name": "Buxus sempervirens",
    "common_name": "Bosso comune",
-   "field:villads": 2
+   "field_villads": 2
  },
  {
    "id": 61188640,
@@ -493,7 +493,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": 2
+   "field_villads": 2
  },
  {
    "id": 61188752,
@@ -504,7 +504,7 @@ var data = `
    "species_guess": "Cedrus deodara",
    "scientific_name": "Cedrus deodara",
    "common_name": "Cedro dell'Himalaya",
-   "field:villads": 3
+   "field_villads": 3
  },
  {
    "id": 61188812,
@@ -515,7 +515,7 @@ var data = `
    "species_guess": "Alloro",
    "scientific_name": "Laurus nobilis",
    "common_name": "Alloro",
-   "field:villads": 3
+   "field_villads": 3
  },
  {
    "id": 61281083,
@@ -526,7 +526,7 @@ var data = `
    "species_guess": "Robinia",
    "scientific_name": "Robinia pseudoacacia",
    "common_name": "Robinia",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 61281100,
@@ -537,7 +537,7 @@ var data = `
    "species_guess": "Betulla",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 61458360,
@@ -548,7 +548,7 @@ var data = `
    "species_guess": "agrifoglio",
    "scientific_name": "Ilex aquifolium",
    "common_name": "agrifoglio",
-   "field:villads": 2
+   "field_villads": 2
  },
  {
    "id": 61458674,
@@ -559,7 +559,7 @@ var data = `
    "species_guess": "Tilia americana",
    "scientific_name": "Tilia americana",
    "common_name": "Tiglio americano",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61458696,
@@ -570,7 +570,7 @@ var data = `
    "species_guess": "Acero montano",
    "scientific_name": "Acer pseudoplatanus",
    "common_name": "Acero montano",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61458757,
@@ -581,7 +581,7 @@ var data = `
    "species_guess": "Atlas cedar",
    "scientific_name": "Cedrus atlantica",
    "common_name": "Cedro dell'Atlante",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61459112,
@@ -592,7 +592,7 @@ var data = `
    "species_guess": "Ligustrum lucidum",
    "scientific_name": "Ligustrum lucidum",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61459178,
@@ -603,7 +603,7 @@ var data = `
    "species_guess": "Japanese Spiraea",
    "scientific_name": "Spiraea japonica",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61459332,
@@ -614,7 +614,7 @@ var data = `
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61459404,
@@ -625,7 +625,7 @@ var data = `
    "species_guess": "Acero campestre",
    "scientific_name": "Acer campestre",
    "common_name": "Acero campestre",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61459987,
@@ -636,7 +636,7 @@ var data = `
    "species_guess": "Juniperus sabina",
    "scientific_name": "Juniperus sabina",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61460127,
@@ -647,7 +647,7 @@ var data = `
    "species_guess": "Gelso",
    "scientific_name": "Morus nigra",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61460157,
@@ -658,7 +658,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61460493,
@@ -669,7 +669,7 @@ var data = `
    "species_guess": "Crape-myrtle",
    "scientific_name": "Lagerstroemia indica",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61460683,
@@ -680,7 +680,7 @@ var data = `
    "species_guess": "Platano comune",
    "scientific_name": "Platanus × hispanica",
    "common_name": "Platano comune",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61460713,
@@ -691,7 +691,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": 22
+   "field_villads": 22
  },
  {
    "id": 61460741,
@@ -702,7 +702,7 @@ var data = `
    "species_guess": "Lauroceraso",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field:villads": 22
+   "field_villads": 22
  },
  {
    "id": 61460922,
@@ -713,7 +713,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": 22
+   "field_villads": 22
  },
  {
    "id": 61479763,
@@ -724,7 +724,7 @@ var data = `
    "species_guess": "Falso gelsomino",
    "scientific_name": "Trachelospermum jasminoides",
    "common_name": "Falso gelsomino",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61485269,
@@ -735,7 +735,7 @@ var data = `
    "species_guess": "Lonicera nitida",
    "scientific_name": "Lonicera ligustrina yunnanensis",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61758438,
@@ -746,7 +746,7 @@ var data = `
    "species_guess": "cipresso mediterraneo",
    "scientific_name": "Cupressus sempervirens",
    "common_name": "cipresso mediterraneo",
-   "field:villads": 2
+   "field_villads": 2
  },
  {
    "id": 61759149,
@@ -757,7 +757,7 @@ var data = `
    "species_guess": "Olmo siberiano",
    "scientific_name": "Ulmus pumila",
    "common_name": "Olmo siberiano",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61759165,
@@ -768,7 +768,7 @@ var data = `
    "species_guess": "Tilia americana",
    "scientific_name": "Tilia americana",
    "common_name": "Tiglio americano",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61759185,
@@ -779,7 +779,7 @@ var data = `
    "species_guess": "Acero montano",
    "scientific_name": "Acer pseudoplatanus",
    "common_name": "Acero montano",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61759207,
@@ -790,7 +790,7 @@ var data = `
    "species_guess": "Abete rosso",
    "scientific_name": "Picea abies",
    "common_name": "Abete rosso",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61759223,
@@ -801,7 +801,7 @@ var data = `
    "species_guess": "Ippocastano",
    "scientific_name": "Aesculus hippocastanum",
    "common_name": "Ippocastano",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61759308,
@@ -812,7 +812,7 @@ var data = `
    "species_guess": "silver birch",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61759506,
@@ -823,7 +823,7 @@ var data = `
    "species_guess": "Atlas cedar",
    "scientific_name": "Cedrus atlantica",
    "common_name": "Cedro dell'Atlante",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61759555,
@@ -834,7 +834,7 @@ var data = `
    "species_guess": "silver maple",
    "scientific_name": "Acer saccharinum",
    "common_name": "Acero saccarino",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61759596,
@@ -845,7 +845,7 @@ var data = `
    "species_guess": "Deodar cedar",
    "scientific_name": "Cedrus deodara",
    "common_name": "Cedro dell'Himalaya",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61759697,
@@ -856,7 +856,7 @@ var data = `
    "species_guess": "Acero montano",
    "scientific_name": "Acer pseudoplatanus",
    "common_name": "Acero montano",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61759770,
@@ -867,7 +867,7 @@ var data = `
    "species_guess": "Olmo siberiano",
    "scientific_name": "Ulmus pumila",
    "common_name": "Olmo siberiano",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61759819,
@@ -878,7 +878,7 @@ var data = `
    "species_guess": "Storace americano",
    "scientific_name": "Liquidambar styraciflua",
    "common_name": "Storace americano",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61760125,
@@ -889,7 +889,7 @@ var data = `
    "species_guess": "white meadowsweet",
    "scientific_name": "Spiraea alba",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61760140,
@@ -900,7 +900,7 @@ var data = `
    "species_guess": "Pittosporo",
    "scientific_name": "Pittosporum tobira",
    "common_name": "Pittosporo",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61760208,
@@ -911,7 +911,7 @@ var data = `
    "species_guess": "Japanse spirea",
    "scientific_name": "Spiraea japonica",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61760293,
@@ -922,7 +922,7 @@ var data = `
    "species_guess": "roses",
    "scientific_name": "Rosa",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61760387,
@@ -933,7 +933,7 @@ var data = `
    "species_guess": "Lawson's cypress",
    "scientific_name": "Chamaecyparis lawsoniana",
    "common_name": "cipresso di Lawson",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61767010,
@@ -944,7 +944,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": 17
+   "field_villads": 17
  },
  {
    "id": 61767049,
@@ -955,7 +955,7 @@ var data = `
    "species_guess": "Acero campestre",
    "scientific_name": "Acer campestre",
    "common_name": "Acero campestre",
-   "field:villads": 17
+   "field_villads": 17
  },
  {
    "id": 61767106,
@@ -966,7 +966,7 @@ var data = `
    "species_guess": "cipresso mediterraneo",
    "scientific_name": "Cupressus sempervirens",
    "common_name": "cipresso mediterraneo",
-   "field:villads": 17
+   "field_villads": 17
  },
  {
    "id": 61767312,
@@ -977,7 +977,7 @@ var data = `
    "species_guess": "roses",
    "scientific_name": "Rosa",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61843608,
@@ -988,7 +988,7 @@ var data = `
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 61859253,
@@ -999,7 +999,7 @@ var data = `
    "species_guess": "southern catalpa",
    "scientific_name": "Catalpa bignonioides",
    "common_name": "",
-   "field:villads": 8
+   "field_villads": 8
  },
  {
    "id": 61865129,
@@ -1010,7 +1010,7 @@ var data = `
    "species_guess": "Acero americano",
    "scientific_name": "Acer negundo",
    "common_name": "Acero americano",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 61865246,
@@ -1021,7 +1021,7 @@ var data = `
    "species_guess": "acero riccio",
    "scientific_name": "Acer platanoides",
    "common_name": "acero riccio",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 61865389,
@@ -1032,7 +1032,7 @@ var data = `
    "species_guess": "silver maple",
    "scientific_name": "Acer saccharinum",
    "common_name": "Acero saccarino",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 61865469,
@@ -1043,7 +1043,7 @@ var data = `
    "species_guess": "Horse-chestnut",
    "scientific_name": "Aesculus hippocastanum",
    "common_name": "Ippocastano",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 61930780,
@@ -1054,7 +1054,7 @@ var data = `
    "species_guess": "Prunus cerasifera pissardii",
    "scientific_name": "Prunus cerasifera pissardii",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61930919,
@@ -1065,7 +1065,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61943518,
@@ -1076,7 +1076,7 @@ var data = `
    "species_guess": "Acero montano",
    "scientific_name": "Acer pseudoplatanus",
    "common_name": "Acero montano",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 61943621,
@@ -1087,7 +1087,7 @@ var data = `
    "species_guess": "Nocciolo",
    "scientific_name": "Corylus avellana",
    "common_name": "Nocciolo",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 61943831,
@@ -1098,7 +1098,7 @@ var data = `
    "species_guess": "Acero campestre",
    "scientific_name": "Acer campestre",
    "common_name": "Acero campestre",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 61944696,
@@ -1109,7 +1109,7 @@ var data = `
    "species_guess": "Robinia",
    "scientific_name": "Robinia pseudoacacia",
    "common_name": "Robinia",
-   "field:villads": 22
+   "field_villads": 22
  },
  {
    "id": 61944848,
@@ -1120,7 +1120,7 @@ var data = `
    "species_guess": "Lonicera nitida",
    "scientific_name": "Lonicera ligustrina yunnanensis",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61944963,
@@ -1131,7 +1131,7 @@ var data = `
    "species_guess": "Bambù sacro",
    "scientific_name": "Nandina domestica",
    "common_name": "Bambù sacro",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61945660,
@@ -1142,7 +1142,7 @@ var data = `
    "species_guess": "Betulla",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61946595,
@@ -1153,7 +1153,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61946685,
@@ -1164,7 +1164,7 @@ var data = `
    "species_guess": "Abelia grandiflora",
    "scientific_name": "Linnaea × grandiflora",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 61946974,
@@ -1175,7 +1175,7 @@ var data = `
    "species_guess": "Rosa",
    "scientific_name": "Rosa",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 62544833,
@@ -1186,7 +1186,7 @@ var data = `
    "species_guess": "Tiglio selvatico",
    "scientific_name": "Tilia cordata",
    "common_name": "Tiglio selvatico",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 62544940,
@@ -1197,7 +1197,7 @@ var data = `
    "species_guess": "Mahonia aquifolium",
    "scientific_name": "Berberis aquifolium",
    "common_name": "",
-   "field:villads": 19
+   "field_villads": 19
  },
  {
    "id": 62546266,
@@ -1208,7 +1208,7 @@ var data = `
    "species_guess": "Abelia grandiflora",
    "scientific_name": "Linnaea × grandiflora",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 62623238,
@@ -1219,7 +1219,7 @@ var data = `
    "species_guess": "Japanese Cherry",
    "scientific_name": "Prunus serrulata",
    "common_name": "Ciliegio giapponese",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 62623272,
@@ -1230,7 +1230,7 @@ var data = `
    "species_guess": "Acacia di Costantinopoli",
    "scientific_name": "Albizia julibrissin",
    "common_name": "Acacia di Costantinopoli",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 62623326,
@@ -1241,7 +1241,7 @@ var data = `
    "species_guess": "Nocciolo",
    "scientific_name": "Corylus avellana",
    "common_name": "Nocciolo",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 62623446,
@@ -1252,7 +1252,7 @@ var data = `
    "species_guess": "Prunus serrulata",
    "scientific_name": "Prunus serrulata",
    "common_name": "Ciliegio giapponese",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 62623484,
@@ -1263,7 +1263,7 @@ var data = `
    "species_guess": "Albero di Giuda",
    "scientific_name": "Cercis siliquastrum",
    "common_name": "Albero di Giuda",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 62623761,
@@ -1274,7 +1274,7 @@ var data = `
    "species_guess": "Cedrus deodara",
    "scientific_name": "Cedrus deodara",
    "common_name": "Cedro dell'Himalaya",
-   "field:villads": 18
+   "field_villads": 18
  },
  {
    "id": 62623848,
@@ -1285,7 +1285,7 @@ var data = `
    "species_guess": "Rosemary",
    "scientific_name": "Salvia rosmarinus",
    "common_name": "Rosmarino",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 62623928,
@@ -1296,7 +1296,7 @@ var data = `
    "species_guess": "cypresses",
    "scientific_name": "Cupressus",
    "common_name": "Cipressi",
-   "field:villads": 19
+   "field_villads": 19
  },
  {
    "id": 62697845,
@@ -1307,7 +1307,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": 1
+   "field_villads": 1
  },
  {
    "id": 62900269,
@@ -1318,7 +1318,7 @@ var data = `
    "species_guess": "Olmo siberiano",
    "scientific_name": "Ulmus pumila",
    "common_name": "Olmo siberiano",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 62902055,
@@ -1329,7 +1329,7 @@ var data = `
    "species_guess": "Quercia rossa",
    "scientific_name": "Quercus rubra",
    "common_name": "Quercia rossa",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 63554992,
@@ -1340,7 +1340,7 @@ var data = `
    "species_guess": "palma nana",
    "scientific_name": "Chamaerops humilis",
    "common_name": "palma nana",
-   "field:villads": 19
+   "field_villads": 19
  },
  {
    "id": 64165735,
@@ -1351,7 +1351,7 @@ var data = `
    "species_guess": "Deodar cedar",
    "scientific_name": "Cedrus deodara",
    "common_name": "Cedro dell'Himalaya",
-   "field:villads": 5
+   "field_villads": 5
  },
  {
    "id": 64519097,
@@ -1362,7 +1362,7 @@ var data = `
    "species_guess": "Taxus",
    "scientific_name": "Taxus baccata",
    "common_name": "albero della morte",
-   "field:villads": 3
+   "field_villads": 3
  },
  {
    "id": 64519737,
@@ -1373,7 +1373,7 @@ var data = `
    "species_guess": "Ginco",
    "scientific_name": "Ginkgo biloba",
    "common_name": "Ginco",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 64520456,
@@ -1384,7 +1384,7 @@ var data = `
    "species_guess": "silver maple",
    "scientific_name": "Acer saccharinum",
    "common_name": "Acero saccarino",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 64520869,
@@ -1395,7 +1395,7 @@ var data = `
    "species_guess": "acero riccio",
    "scientific_name": "Acer platanoides",
    "common_name": "acero riccio",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 64521206,
@@ -1406,7 +1406,7 @@ var data = `
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 64521498,
@@ -1417,7 +1417,7 @@ var data = `
    "species_guess": "sycamore maple",
    "scientific_name": "Acer pseudoplatanus",
    "common_name": "Acero montano",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 64522041,
@@ -1428,7 +1428,7 @@ var data = `
    "species_guess": "Tilia americana",
    "scientific_name": "Tilia americana",
    "common_name": "Tiglio americano",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 64522079,
@@ -1439,7 +1439,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 64585223,
@@ -1450,7 +1450,7 @@ var data = `
    "species_guess": "Japanese Cherry",
    "scientific_name": "Prunus serrulata",
    "common_name": "Ciliegio giapponese",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 65268556,
@@ -1461,7 +1461,7 @@ var data = `
    "species_guess": "Narrowleaf Firethorn",
    "scientific_name": "Pyracantha angustifolia",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 65268634,
@@ -1472,7 +1472,7 @@ var data = `
    "species_guess": "Acer saccharinum",
    "scientific_name": "Acer saccharinum",
    "common_name": "Acero saccarino",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 65473236,
@@ -1483,7 +1483,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 65473308,
@@ -1494,7 +1494,7 @@ var data = `
    "species_guess": "farnia",
    "scientific_name": "Quercus robur",
    "common_name": "farnia",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 65683231,
@@ -1505,7 +1505,7 @@ var data = `
    "species_guess": "Pioppo nero",
    "scientific_name": "Populus nigra",
    "common_name": "Pioppo nero",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 65931108,
@@ -1516,7 +1516,7 @@ var data = `
    "species_guess": "blue spruce",
    "scientific_name": "Picea pungens",
    "common_name": "Peccio del Colorado",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 65931174,
@@ -1527,7 +1527,7 @@ var data = `
    "species_guess": "ginepro",
    "scientific_name": "Juniperus",
    "common_name": "ginepro",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 66085799,
@@ -1538,7 +1538,7 @@ var data = `
    "species_guess": "acer saccharinum",
    "scientific_name": "Acer saccharinum",
    "common_name": "Acero saccarino",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66085881,
@@ -1549,7 +1549,7 @@ var data = `
    "species_guess": "Catalpa",
    "scientific_name": "Catalpa bignonioides",
    "common_name": "",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66085978,
@@ -1560,7 +1560,7 @@ var data = `
    "species_guess": "Prunus cerasifera pissardii",
    "scientific_name": "Prunus cerasifera pissardii",
    "common_name": "",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66086010,
@@ -1571,7 +1571,7 @@ var data = `
    "species_guess": "silver birch",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66086026,
@@ -1582,7 +1582,7 @@ var data = `
    "species_guess": "Robinia",
    "scientific_name": "Robinia pseudoacacia",
    "common_name": "Robinia",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66086071,
@@ -1593,7 +1593,7 @@ var data = `
    "species_guess": "Frassino maggiore",
    "scientific_name": "Fraxinus excelsior",
    "common_name": "Frassino maggiore",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66086084,
@@ -1604,7 +1604,7 @@ var data = `
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66086109,
@@ -1615,7 +1615,7 @@ var data = `
    "species_guess": "Deodar cedar",
    "scientific_name": "Cedrus deodara",
    "common_name": "Cedro dell'Himalaya",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66086118,
@@ -1626,7 +1626,7 @@ var data = `
    "species_guess": "Atlas cedar",
    "scientific_name": "Cedrus atlantica",
    "common_name": "Cedro dell'Atlante",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66086128,
@@ -1637,7 +1637,7 @@ var data = `
    "species_guess": "Judas-tree",
    "scientific_name": "Cercis siliquastrum",
    "common_name": "Albero di Giuda",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66086150,
@@ -1648,7 +1648,7 @@ var data = `
    "species_guess": "Carpino nero",
    "scientific_name": "Ostrya carpinifolia",
    "common_name": "Carpino nero",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66086182,
@@ -1659,7 +1659,7 @@ var data = `
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 66086206,
@@ -1670,7 +1670,7 @@ var data = `
    "species_guess": "silver birch",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66086217,
@@ -1681,7 +1681,7 @@ var data = `
    "species_guess": "Ligustrum sinense",
    "scientific_name": "Ligustrum sinense",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 66086230,
@@ -1692,7 +1692,7 @@ var data = `
    "species_guess": "Abete rosso",
    "scientific_name": "Picea abies",
    "common_name": "Abete rosso",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66138071,
@@ -1703,7 +1703,7 @@ var data = `
    "species_guess": "coralberry",
    "scientific_name": "Symphoricarpos orbiculatus",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 66410384,
@@ -1714,7 +1714,7 @@ var data = `
    "species_guess": "Acero montano",
    "scientific_name": "Acer pseudoplatanus",
    "common_name": "Acero montano",
-   "field:villads": 10
+   "field_villads": 10
  },
  {
    "id": 66410400,
@@ -1725,7 +1725,7 @@ var data = `
    "species_guess": "ginepro",
    "scientific_name": "Juniperus",
    "common_name": "ginepro",
-   "field:villads": 10
+   "field_villads": 10
  },
  {
    "id": 66413284,
@@ -1736,7 +1736,7 @@ var data = `
    "species_guess": "Alloro",
    "scientific_name": "Laurus nobilis",
    "common_name": "Alloro",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66413374,
@@ -1747,7 +1747,7 @@ var data = `
    "species_guess": "Albero di Giuda",
    "scientific_name": "Cercis siliquastrum",
    "common_name": "Albero di Giuda",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66413398,
@@ -1758,7 +1758,7 @@ var data = `
    "species_guess": "Lauroceraso",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66413426,
@@ -1769,7 +1769,7 @@ var data = `
    "species_guess": "acero riccio",
    "scientific_name": "Acer platanoides",
    "common_name": "acero riccio",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66413471,
@@ -1780,7 +1780,7 @@ var data = `
    "species_guess": "Agazzino",
    "scientific_name": "Pyracantha coccinea",
    "common_name": "Agazzino",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 66413490,
@@ -1791,7 +1791,7 @@ var data = `
    "species_guess": "Acer saccharinum",
    "scientific_name": "Acer saccharinum",
    "common_name": "Acero saccarino",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66413564,
@@ -1802,7 +1802,7 @@ var data = `
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66413627,
@@ -1813,7 +1813,7 @@ var data = `
    "species_guess": "Liriodendron tulipifera",
    "scientific_name": "Liriodendron tulipifera",
    "common_name": "",
-   "field:villads": 6
+   "field_villads": 6
  },
  {
    "id": 66685861,
@@ -1824,7 +1824,7 @@ var data = `
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 66685866,
@@ -1835,7 +1835,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 66685871,
@@ -1846,7 +1846,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 66685887,
@@ -1857,7 +1857,7 @@ var data = `
    "species_guess": "Spaccasassi",
    "scientific_name": "Celtis australis",
    "common_name": "Spaccasassi",
-   "field:villads": 13
+   "field_villads": 13
  },
  {
    "id": 66910719,
@@ -1868,7 +1868,7 @@ var data = `
    "species_guess": "Betulla",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 66910732,
@@ -1879,7 +1879,7 @@ var data = `
    "species_guess": "Deodar cedar",
    "scientific_name": "Cedrus deodara",
    "common_name": "Cedro dell'Himalaya",
-   "field:villads": 11
+   "field_villads": 11
  },
  {
    "id": 66910744,
@@ -1890,7 +1890,7 @@ var data = `
    "species_guess": "Cedrus atlantica",
    "scientific_name": "Cedrus atlantica",
    "common_name": "Cedro dell'Atlante",
-   "field:villads": 11
+   "field_villads": 11
  },
  {
    "id": 66910762,
@@ -1901,7 +1901,7 @@ var data = `
    "species_guess": "Silberahorn",
    "scientific_name": "Acer saccharinum",
    "common_name": "Acero saccarino",
-   "field:villads": 11
+   "field_villads": 11
  },
  {
    "id": 66910824,
@@ -1912,7 +1912,7 @@ var data = `
    "species_guess": "Marusticano",
    "scientific_name": "Prunus cerasifera",
    "common_name": "Marusticano",
-   "field:villads": 11
+   "field_villads": 11
  },
  {
    "id": 66910840,
@@ -1923,7 +1923,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": 11
+   "field_villads": 11
  },
  {
    "id": 66910865,
@@ -1934,7 +1934,7 @@ var data = `
    "species_guess": "Liriodendron tulipifera",
    "scientific_name": "Liriodendron tulipifera",
    "common_name": "",
-   "field:villads": 11
+   "field_villads": 11
  },
  {
    "id": 66910876,
@@ -1945,7 +1945,7 @@ var data = `
    "species_guess": "Catalpa",
    "scientific_name": "Catalpa bignonioides",
    "common_name": "",
-   "field:villads": 11
+   "field_villads": 11
  },
  {
    "id": 66954729,
@@ -1956,7 +1956,7 @@ var data = `
    "species_guess": "pino domestico",
    "scientific_name": "Pinus pinea",
    "common_name": "pino domestico",
-   "field:villads": 15
+   "field_villads": 15
  },
  {
    "id": 66954760,
@@ -1967,7 +1967,7 @@ var data = `
    "species_guess": "Betulla",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field:villads": 16
+   "field_villads": 16
  },
  {
    "id": 66954799,
@@ -1978,7 +1978,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": 16
+   "field_villads": 16
  },
  {
    "id": 66954828,
@@ -1989,7 +1989,7 @@ var data = `
    "species_guess": "Deodar cedar",
    "scientific_name": "Cedrus deodara",
    "common_name": "Cedro dell'Himalaya",
-   "field:villads": 16
+   "field_villads": 16
  },
  {
    "id": 66954862,
@@ -2000,7 +2000,7 @@ var data = `
    "species_guess": "Gelso bianco",
    "scientific_name": "Morus alba",
    "common_name": "Gelso bianco",
-   "field:villads": 16
+   "field_villads": 16
  },
  {
    "id": 66954916,
@@ -2011,7 +2011,7 @@ var data = `
    "species_guess": "cipresso mediterraneo",
    "scientific_name": "Cupressus sempervirens",
    "common_name": "cipresso mediterraneo",
-   "field:villads": 15
+   "field_villads": 15
  },
  {
    "id": 66962638,
@@ -2022,7 +2022,7 @@ var data = `
    "species_guess": "farnia",
    "scientific_name": "Quercus robur",
    "common_name": "farnia",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 66962705,
@@ -2033,7 +2033,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 67126829,
@@ -2044,7 +2044,7 @@ var data = `
    "species_guess": "Faggio",
    "scientific_name": "Fagus sylvatica",
    "common_name": "Faggio",
-   "field:villads": 21
+   "field_villads": 21
  },
  {
    "id": 67126870,
@@ -2055,7 +2055,7 @@ var data = `
    "species_guess": "farnia",
    "scientific_name": "Quercus robur",
    "common_name": "farnia",
-   "field:villads": 21
+   "field_villads": 21
  },
  {
    "id": 67609419,
@@ -2066,7 +2066,7 @@ var data = `
    "species_guess": "Oriental thuja",
    "scientific_name": "Platycladus orientalis",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67655580,
@@ -2077,7 +2077,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67655755,
@@ -2088,7 +2088,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67655788,
@@ -2099,7 +2099,7 @@ var data = `
    "species_guess": "Lauroceraso",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67655810,
@@ -2110,7 +2110,7 @@ var data = `
    "species_guess": "Acero campestre",
    "scientific_name": "Acer campestre",
    "common_name": "Acero campestre",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67655885,
@@ -2121,7 +2121,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67656063,
@@ -2132,7 +2132,7 @@ var data = `
    "species_guess": "Robinia",
    "scientific_name": "Robinia pseudoacacia",
    "common_name": "Robinia",
-   "field:villads": 22
+   "field_villads": 22
  },
  {
    "id": 67656179,
@@ -2143,7 +2143,7 @@ var data = `
    "species_guess": "farnia",
    "scientific_name": "Quercus robur",
    "common_name": "farnia",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 67740316,
@@ -2154,7 +2154,7 @@ var data = `
    "species_guess": "Olmo campestre",
    "scientific_name": "Ulmus minor",
    "common_name": "Olmo campestre",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67740335,
@@ -2165,7 +2165,7 @@ var data = `
    "species_guess": "Nocciolo",
    "scientific_name": "Corylus avellana",
    "common_name": "Nocciolo",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67740401,
@@ -2176,7 +2176,7 @@ var data = `
    "species_guess": "Acero americano",
    "scientific_name": "Acer negundo",
    "common_name": "Acero americano",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67740435,
@@ -2187,7 +2187,7 @@ var data = `
    "species_guess": "",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67740445,
@@ -2198,7 +2198,7 @@ var data = `
    "species_guess": "Pinus wallichiana",
    "scientific_name": "Pinus wallichiana",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67740485,
@@ -2209,7 +2209,7 @@ var data = `
    "species_guess": "Frassino maggiore",
    "scientific_name": "Fraxinus excelsior",
    "common_name": "Frassino maggiore",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67842360,
@@ -2220,7 +2220,7 @@ var data = `
    "species_guess": "Nocciolo",
    "scientific_name": "Corylus avellana",
    "common_name": "Nocciolo",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67842418,
@@ -2231,7 +2231,7 @@ var data = `
    "species_guess": "Carpino nero",
    "scientific_name": "Ostrya carpinifolia",
    "common_name": "Carpino nero",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67842661,
@@ -2242,7 +2242,7 @@ var data = `
    "species_guess": "Salix matsudana tortuosa",
    "scientific_name": "Salix babylonica tortuosa",
    "common_name": "",
-   "field:villads": 22
+   "field_villads": 22
  },
  {
    "id": 67910276,
@@ -2253,7 +2253,7 @@ var data = `
    "species_guess": "Lauroceraso",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67910290,
@@ -2264,7 +2264,7 @@ var data = `
    "species_guess": "Acero americano",
    "scientific_name": "Acer negundo",
    "common_name": "Acero americano",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67910307,
@@ -2275,7 +2275,7 @@ var data = `
    "species_guess": "prunus laurocerasus",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67910313,
@@ -2286,7 +2286,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67910324,
@@ -2297,7 +2297,7 @@ var data = `
    "species_guess": "oleandro",
    "scientific_name": "Nerium oleander",
    "common_name": "oleandro",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67910329,
@@ -2308,7 +2308,7 @@ var data = `
    "species_guess": "Acero montano",
    "scientific_name": "Acer pseudoplatanus",
    "common_name": "Acero montano",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67910337,
@@ -2319,7 +2319,7 @@ var data = `
    "species_guess": "Prunus sp.",
    "scientific_name": "Prunus",
    "common_name": "Pruni",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67948898,
@@ -2330,7 +2330,7 @@ var data = `
    "species_guess": "ciliegio",
    "scientific_name": "Prunus avium",
    "common_name": "ciliegio",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67948974,
@@ -2341,7 +2341,7 @@ var data = `
    "species_guess": "Acer saccharinum",
    "scientific_name": "Acer saccharinum",
    "common_name": "Acero saccarino",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67949028,
@@ -2352,7 +2352,7 @@ var data = `
    "species_guess": "Frassino maggiore",
    "scientific_name": "Fraxinus excelsior",
    "common_name": "Frassino maggiore",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67958770,
@@ -2363,7 +2363,7 @@ var data = `
    "species_guess": "Tilia americana",
    "scientific_name": "Tilia americana",
    "common_name": "Tiglio americano",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67958791,
@@ -2374,7 +2374,7 @@ var data = `
    "species_guess": "Magnolia",
    "scientific_name": "Magnolia grandiflora",
    "common_name": "Magnolia",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67958805,
@@ -2385,7 +2385,7 @@ var data = `
    "species_guess": "Pittosporo",
    "scientific_name": "Pittosporum tobira",
    "common_name": "Pittosporo",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67958819,
@@ -2396,7 +2396,7 @@ var data = `
    "species_guess": "Bambù sacro",
    "scientific_name": "Nandina domestica",
    "common_name": "Bambù sacro",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67958855,
@@ -2407,7 +2407,7 @@ var data = `
    "species_guess": "Pino mugo",
    "scientific_name": "Pinus mugo",
    "common_name": "Pino mugo",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67958888,
@@ -2418,7 +2418,7 @@ var data = `
    "species_guess": "Acero palmato",
    "scientific_name": "Acer palmatum",
    "common_name": "Acero palmato",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67958916,
@@ -2429,7 +2429,7 @@ var data = `
    "species_guess": "Ippocastano",
    "scientific_name": "Aesculus hippocastanum",
    "common_name": "Ippocastano",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67958990,
@@ -2440,7 +2440,7 @@ var data = `
    "species_guess": "Agazzino",
    "scientific_name": "Pyracantha coccinea",
    "common_name": "Agazzino",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67959078,
@@ -2451,7 +2451,7 @@ var data = `
    "species_guess": "silver birch",
    "scientific_name": "Betula pendula",
    "common_name": "Betulla",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67959114,
@@ -2462,7 +2462,7 @@ var data = `
    "species_guess": "Lauroceraso",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67959363,
@@ -2473,7 +2473,7 @@ var data = `
    "species_guess": "Pioppo nero",
    "scientific_name": "Populus nigra",
    "common_name": "Pioppo nero",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67959417,
@@ -2484,7 +2484,7 @@ var data = `
    "species_guess": "Tilia americana",
    "scientific_name": "Tilia americana",
    "common_name": "Tiglio americano",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67959433,
@@ -2495,7 +2495,7 @@ var data = `
    "species_guess": "agrifoglio",
    "scientific_name": "Ilex aquifolium",
    "common_name": "agrifoglio",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67959461,
@@ -2506,7 +2506,7 @@ var data = `
    "species_guess": "Lagerstroemia indica",
    "scientific_name": "Lagerstroemia indica",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67959595,
@@ -2517,7 +2517,7 @@ var data = `
    "species_guess": "ginepro",
    "scientific_name": "Juniperus",
    "common_name": "ginepro",
-   "field:villads": 19
+   "field_villads": 19
  },
  {
    "id": 67959810,
@@ -2528,7 +2528,7 @@ var data = `
    "species_guess": "Osmanthus",
    "scientific_name": "Osmanthus",
    "common_name": "",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67959979,
@@ -2539,7 +2539,7 @@ var data = `
    "species_guess": "Storace americano",
    "scientific_name": "Liquidambar styraciflua",
    "common_name": "Storace americano",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67960027,
@@ -2550,7 +2550,7 @@ var data = `
    "species_guess": "Ginco",
    "scientific_name": "Ginkgo biloba",
    "common_name": "Ginco",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67960057,
@@ -2561,7 +2561,7 @@ var data = `
    "species_guess": "Magnolia",
    "scientific_name": "Magnolia grandiflora",
    "common_name": "Magnolia",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67960082,
@@ -2572,7 +2572,7 @@ var data = `
    "species_guess": "Frassino maggiore",
    "scientific_name": "Fraxinus excelsior",
    "common_name": "Frassino maggiore",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67960098,
@@ -2583,7 +2583,7 @@ var data = `
    "species_guess": "Quercia rossa",
    "scientific_name": "Quercus rubra",
    "common_name": "Quercia rossa",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67960125,
@@ -2594,7 +2594,7 @@ var data = `
    "species_guess": "Agazzino",
    "scientific_name": "Pyracantha coccinea",
    "common_name": "Agazzino",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 67998206,
@@ -2605,7 +2605,7 @@ var data = `
    "species_guess": "Olmo campestre",
    "scientific_name": "Ulmus minor",
    "common_name": "Olmo campestre",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67998248,
@@ -2616,7 +2616,7 @@ var data = `
    "species_guess": "cipresso mediterraneo",
    "scientific_name": "Cupressus sempervirens",
    "common_name": "cipresso mediterraneo",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67998390,
@@ -2627,7 +2627,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67998616,
@@ -2638,7 +2638,7 @@ var data = `
    "species_guess": "Pruni",
    "scientific_name": "Prunus",
    "common_name": "Pruni",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 67998663,
@@ -2649,7 +2649,7 @@ var data = `
    "species_guess": "Acero palmato",
    "scientific_name": "Acer palmatum",
    "common_name": "Acero palmato",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 68010302,
@@ -2660,7 +2660,7 @@ var data = `
    "species_guess": "Lauroceraso",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field:villads": 18
+   "field_villads": 18
  },
  {
    "id": 68010373,
@@ -2671,7 +2671,7 @@ var data = `
    "species_guess": "agrifoglio",
    "scientific_name": "Ilex aquifolium",
    "common_name": "agrifoglio",
-   "field:villads": 18
+   "field_villads": 18
  },
  {
    "id": 68010471,
@@ -2682,7 +2682,7 @@ var data = `
    "species_guess": "Lauroceraso",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field:villads": 8
+   "field_villads": 8
  },
  {
    "id": 68010625,
@@ -2693,7 +2693,7 @@ var data = `
    "species_guess": "Prunus cerasifera pissardii",
    "scientific_name": "Prunus cerasifera pissardii",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 68010694,
@@ -2704,7 +2704,7 @@ var data = `
    "species_guess": "Lonicera nitida",
    "scientific_name": "Lonicera ligustrina yunnanensis",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 68010731,
@@ -2715,7 +2715,7 @@ var data = `
    "species_guess": "ginepro",
    "scientific_name": "Juniperus",
    "common_name": "ginepro",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 68010861,
@@ -2726,7 +2726,7 @@ var data = `
    "species_guess": "Lonicera nitida",
    "scientific_name": "Lonicera ligustrina yunnanensis",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 68010941,
@@ -2737,7 +2737,7 @@ var data = `
    "species_guess": "Carpino bianco",
    "scientific_name": "Carpinus betulus",
    "common_name": "Carpino bianco",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 68010973,
@@ -2748,7 +2748,7 @@ var data = `
    "species_guess": "Nocciolo",
    "scientific_name": "Corylus avellana",
    "common_name": "Nocciolo",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 68095430,
@@ -2759,7 +2759,7 @@ var data = `
    "species_guess": "Alloro",
    "scientific_name": "Laurus nobilis",
    "common_name": "Alloro",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 68322072,
@@ -2770,7 +2770,7 @@ var data = `
    "species_guess": "Alloro",
    "scientific_name": "Laurus nobilis",
    "common_name": "Alloro",
-   "field:villads": 20
+   "field_villads": 20
  },
  {
    "id": 68322102,
@@ -2781,7 +2781,7 @@ var data = `
    "species_guess": "Nocciolo",
    "scientific_name": "Corylus avellana",
    "common_name": "Nocciolo",
-   "field:villads": 16
+   "field_villads": 16
  },
  {
    "id": 68322149,
@@ -2792,7 +2792,7 @@ var data = `
    "species_guess": "Faggio",
    "scientific_name": "Fagus sylvatica",
    "common_name": "Faggio",
-   "field:villads": 16
+   "field_villads": 16
  },
  {
    "id": 68322233,
@@ -2803,7 +2803,7 @@ var data = `
    "species_guess": "Osmanthus",
    "scientific_name": "Osmanthus",
    "common_name": "",
-   "field:villads": 15
+   "field_villads": 15
  },
  {
    "id": 68322271,
@@ -2814,7 +2814,7 @@ var data = `
    "species_guess": "Ippocastano",
    "scientific_name": "Aesculus hippocastanum",
    "common_name": "Ippocastano",
-   "field:villads": 16
+   "field_villads": 16
  },
  {
    "id": 68359637,
@@ -2825,7 +2825,7 @@ var data = `
    "species_guess": "Fraxinus angustifolia",
    "scientific_name": "Fraxinus angustifolia",
    "common_name": "frassino a foglie strette",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 68359679,
@@ -2836,7 +2836,7 @@ var data = `
    "species_guess": "Pyracantha angustifolia",
    "scientific_name": "Pyracantha angustifolia",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 68359704,
@@ -2847,7 +2847,7 @@ var data = `
    "species_guess": "Osmanthus",
    "scientific_name": "Osmanthus",
    "common_name": "",
-   "field:villads": 15
+   "field_villads": 15
  },
  {
    "id": 68359724,
@@ -2858,7 +2858,7 @@ var data = `
    "species_guess": "Bambù sacro",
    "scientific_name": "Nandina domestica",
    "common_name": "Bambù sacro",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 68359750,
@@ -2869,7 +2869,7 @@ var data = `
    "species_guess": "Rosa",
    "scientific_name": "Rosa",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 68373039,
@@ -2880,7 +2880,7 @@ var data = `
    "species_guess": "acero riccio",
    "scientific_name": "Acer platanoides",
    "common_name": "acero riccio",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 68407664,
@@ -2891,7 +2891,7 @@ var data = `
    "species_guess": "ginepro",
    "scientific_name": "Juniperus",
    "common_name": "ginepro",
-   "field:villads": 4
+   "field_villads": 4
  },
  {
    "id": 72442735,
@@ -2902,7 +2902,7 @@ var data = `
    "species_guess": "Cherry laurel",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field:villads": 17
+   "field_villads": 17
  },
  {
    "id": 73194283,
@@ -2913,7 +2913,7 @@ var data = `
    "species_guess": "Tatarian Maple",
    "scientific_name": "Acer tataricum",
    "common_name": "",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 73610827,
@@ -2924,7 +2924,7 @@ var data = `
    "species_guess": "roses",
    "scientific_name": "Rosa",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 75648003,
@@ -2935,7 +2935,7 @@ var data = `
    "species_guess": "Chinese arborvitae",
    "scientific_name": "Platycladus orientalis",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 75648868,
@@ -2946,7 +2946,7 @@ var data = `
    "species_guess": "Pyracantha angustifolia",
    "scientific_name": "Pyracantha angustifolia",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 75756980,
@@ -2957,7 +2957,7 @@ var data = `
    "species_guess": "Witte spirea",
    "scientific_name": "Spiraea alba",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 75759545,
@@ -2968,7 +2968,7 @@ var data = `
    "species_guess": "Albero di Giuda",
    "scientific_name": "Cercis siliquastrum",
    "common_name": "Albero di Giuda",
-   "field:villads": 14
+   "field_villads": 14
  },
  {
    "id": 76939375,
@@ -2979,7 +2979,7 @@ var data = `
    "species_guess": "Gelso",
    "scientific_name": "Morus nigra",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 78801308,
@@ -2990,7 +2990,7 @@ var data = `
    "species_guess": "ginepro",
    "scientific_name": "Juniperus",
    "common_name": "ginepro",
-   "field:villads": 12
+   "field_villads": 12
  },
  {
    "id": 81695898,
@@ -3001,7 +3001,7 @@ var data = `
    "species_guess": "Falso gelsomino",
    "scientific_name": "Trachelospermum jasminoides",
    "common_name": "Falso gelsomino",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 81992846,
@@ -3012,7 +3012,7 @@ var data = `
    "species_guess": "Gelso",
    "scientific_name": "Morus nigra",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 82518086,
@@ -3023,7 +3023,7 @@ var data = `
    "species_guess": "Lavender-cotton",
    "scientific_name": "Santolina chamaecyparissus",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 87275068,
@@ -3034,7 +3034,7 @@ var data = `
    "species_guess": "Prugnolo",
    "scientific_name": "Prunus spinosa",
    "common_name": "Prugnolo",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 87275074,
@@ -3045,7 +3045,7 @@ var data = `
    "species_guess": "Fico",
    "scientific_name": "Ficus carica",
    "common_name": "Fico",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 87275195,
@@ -3056,7 +3056,7 @@ var data = `
    "species_guess": "Pruno europeo",
    "scientific_name": "Prunus domestica",
    "common_name": "Pruno europeo",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 87292535,
@@ -3067,7 +3067,7 @@ var data = `
    "species_guess": "Oleandro",
    "scientific_name": "Nerium oleander",
    "common_name": "oleandro",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 87508170,
@@ -3078,7 +3078,7 @@ var data = `
    "species_guess": "Tiglio americano",
    "scientific_name": "Tilia americana",
    "common_name": "Tiglio americano",
-   "field:villads": 2
+   "field_villads": 2
  },
  {
    "id": 87712955,
@@ -3089,7 +3089,7 @@ var data = `
    "species_guess": "Lauroceraso",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field:villads": 1
+   "field_villads": 1
  },
  {
    "id": 87713210,
@@ -3100,7 +3100,7 @@ var data = `
    "species_guess": "agrifoglio",
    "scientific_name": "Ilex aquifolium",
    "common_name": "agrifoglio",
-   "field:villads": 1
+   "field_villads": 1
  },
  {
    "id": 87713774,
@@ -3111,7 +3111,7 @@ var data = `
    "species_guess": "Faggio",
    "scientific_name": "Fagus sylvatica",
    "common_name": "Faggio",
-   "field:villads": 2
+   "field_villads": 2
  },
  {
    "id": 87713903,
@@ -3122,7 +3122,7 @@ var data = `
    "species_guess": "agrifoglio",
    "scientific_name": "Ilex aquifolium",
    "common_name": "agrifoglio",
-   "field:villads": 2
+   "field_villads": 2
  },
  {
    "id": 87714042,
@@ -3133,7 +3133,7 @@ var data = `
    "species_guess": "Glossy abelia",
    "scientific_name": "Linnaea × grandiflora",
    "common_name": "",
-   "field:villads": 2
+   "field_villads": 2
  },
  {
    "id": 87715294,
@@ -3144,7 +3144,7 @@ var data = `
    "species_guess": "cipresso di Lawson",
    "scientific_name": "Chamaecyparis lawsoniana",
    "common_name": "cipresso di Lawson",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 87715490,
@@ -3155,7 +3155,7 @@ var data = `
    "species_guess": "Acero campestre",
    "scientific_name": "Acer campestre",
    "common_name": "Acero campestre",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 87715587,
@@ -3166,7 +3166,7 @@ var data = `
    "species_guess": "Glossy abelia",
    "scientific_name": "Linnaea × grandiflora",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 87715678,
@@ -3177,7 +3177,7 @@ var data = `
    "species_guess": "Osmanthus fragrans",
    "scientific_name": "Osmanthus fragrans",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 87715780,
@@ -3188,7 +3188,7 @@ var data = `
    "species_guess": "Faggio",
    "scientific_name": "Fagus sylvatica",
    "common_name": "Faggio",
-   "field:villads": 2
+   "field_villads": 2
  },
  {
    "id": 87816691,
@@ -3199,7 +3199,7 @@ var data = `
    "species_guess": "Cedro dell'Himalaya",
    "scientific_name": "Cedrus deodara",
    "common_name": "Cedro dell'Himalaya",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 87816795,
@@ -3210,7 +3210,7 @@ var data = `
    "species_guess": "cipresso mediterraneo",
    "scientific_name": "Cupressus sempervirens",
    "common_name": "cipresso mediterraneo",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 87842412,
@@ -3221,7 +3221,7 @@ var data = `
    "species_guess": "Platano Comune",
    "scientific_name": "Platanus × hispanica",
    "common_name": "Platano comune",
-   "field:villads": 1
+   "field_villads": 1
  },
  {
    "id": 87842415,
@@ -3232,7 +3232,7 @@ var data = `
    "species_guess": "Ligustrum sinense",
    "scientific_name": "Ligustrum sinense",
    "common_name": "",
-   "field:villads": 1
+   "field_villads": 1
  },
  {
    "id": 88122028,
@@ -3243,7 +3243,7 @@ var data = `
    "species_guess": "Veronica speciosa",
    "scientific_name": "Veronica speciosa",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 88122120,
@@ -3254,7 +3254,7 @@ var data = `
    "species_guess": "Lonicera ligustrina",
    "scientific_name": "Lonicera ligustrina",
    "common_name": "",
-   "field:villads": null
+   "field_villads": 100
  },
  {
    "id": 88122243,
@@ -3265,7 +3265,7 @@ var data = `
    "species_guess": "Rosa",
    "scientific_name": "Rosa",
    "common_name": "",
-   "field:villads": 2
+   "field_villads": 2
  },
  {
    "id": 88122427,
@@ -3276,7 +3276,7 @@ var data = `
    "species_guess": "Cedro dell'Atlante",
    "scientific_name": "Cedrus atlantica",
    "common_name": "Cedro dell'Atlante",
-   "field:villads": 2
+   "field_villads": 2
  },
  {
    "id": 88122542,
@@ -3287,6 +3287,6 @@ var data = `
    "species_guess": "Lauroceraso",
    "scientific_name": "Prunus laurocerasus",
    "common_name": "Lauroceraso",
-   "field:villads": 1
+   "field_villads": 1
  }
 ]`;
