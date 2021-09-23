@@ -8,6 +8,6 @@ Per la creazione del file .JSON seguire i segueti passaggi:
 
 - aggiungere **var data =** e backtick per il corretto parsing
 
-- convertire **fields:villads** in **fields_villads**
+- convertire **field:villads** in **field_villads**
 
-- convertire **fields_villads = null** in **fields_villads = 100**
+- convertire **"field_villads": null** in **"field_villads": 100**
